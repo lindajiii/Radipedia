@@ -1,0 +1,1034 @@
+{
+    "queries": {
+        "8f647e10-13c5-4fa7-b09b-ccb6301fed1d": "How does leptomeningeal seeding typically manifest in patients with primary CNS lymphoma, and what imaging techniques are recommended for detecting this spread?",
+        "b1dbd852-a1e0-4716-912b-b6250e01728f": "Describe the unusual form of presentation of primary CNS lymphoma known as lymphomatosis cerebri, including the imaging findings associated with this condition.",
+        "4c51dda9-68d0-4be6-9a01-6627f134bcd5": "How does a tumor localized to the upper pyriform affect the treatment approach, and what surgical procedure may be considered in this case?",
+        "6ddcd511-6cd4-477b-af58-bfb754029752": "Describe the pathway a tumor that invades the paraglottic region of the larynx may follow to reach the level of the true vocal fold.",
+        "0b0fd0b7-b14a-4cbc-8ef2-cd925f3408ef": "What are the key imaging characteristics of well-differentiated liposarcoma on CT and MRI scans?",
+        "0f636ae3-9bd3-4fb7-8bfe-36028145a6f9": "How can poorly differentiated liposarcoma be distinguished from other soft tissue tumors based on imaging findings, and what are the specific features to look for?",
+        "5dc1685a-b669-47dd-8f42-17d53fa0fdc1": "How is intravenous contrast used in the evaluation of orbital diseases, and what types of conditions can it help diagnose?",
+        "cb41bbce-ceed-49c1-aa27-0e564fb42ff1": "Why might a bolus injection of contrast be used specifically for the evaluation of vascular lesions in the orbit, and how does it improve the imaging of arterial blood supply in these cases?",
+        "838ebae7-d851-4a03-9019-b16f54b0c58c": "What are the three histologic subtypes of malignant pleural mesothelioma, and how do they differ in terms of biological behaviors and prognosis?",
+        "7fa31ef9-953b-4fd5-8131-ad1ffc12e337": "Describe the most common clinical presentation of malignant pleural mesothelioma, including the typical patient demographics, symptoms, and history of exposure to a known risk factor.",
+        "28f3308c-f0ba-48f2-b540-204411579046": "How can the radiologist ensure that abnormalities in the small bowel are not hidden during a SBFT or enteroclysis procedure?",
+        "b12a8f7f-9893-4524-8c3a-b0788a3ab868": "Why is it important for the radiologist to record any abnormalities seen during the procedure with spot images and in orthogonal planes?",
+        "40147734-8a79-48de-902f-cb80021f70b6": "What are the most common chronic liver diseases mentioned in the document, and how do they progress to liver fibrosis and cirrhosis?",
+        "84f8659c-8882-4399-9b8b-f24a71822b70": "Describe the pathological differences in the pattern of fibrosis between chronic viral hepatitis and fatty liver disease/alcoholic hepatitis as outlined in the document.",
+        "a9ec95de-ac09-485f-8c67-997bf57ff351": "Describe the histological characteristics of intraductal-growing cholangiocarcinoma (CC) and explain how it differs from invasive CC.",
+        "7c812351-ca35-426d-b451-2f91ea907d89": "What is the significance of a large amount of mucin production in an intraductal CC, leading to the classification of intraductal papillary mucinous neoplasm (IPMN) of the bile ducts?",
+        "5ecc764a-c8b9-4b99-87fa-3dc8a476ccf8": "What are benign neoplasms in the gallbladder and where do they originate from?",
+        "55247c20-07c1-4657-a4a0-fdccdea0b3b1": "How do benign GB tumors differ from malignant tumors in terms of their origin and composition?",
+        "06097fd9-1513-4949-a04b-cf5b4ff6acc7": "How does motion affect functional connectivity measurements in rs-fMRI, and what steps can be taken to mitigate its effects?",
+        "6d7e2417-a4a7-4e14-ab81-015be3649b64": "What are some common processing steps in rs-fMRI analysis to reduce false correlations related to physiologic noise and motion artifacts?",
+        "8c18c0ee-8778-432c-8a7d-3299f66b90bf": "How does the case_type \"Case\" differ from other types of legal documents?",
+        "c49b6664-a67f-4684-b2d7-4bb3c5e630eb": "As a teacher, how would you explain the significance of understanding different case types to your students?",
+        "f145e183-bd33-4d44-86a1-a35b5899e61a": "How do secondary CNS lymphomas typically present in terms of involvement of the brain and spinal cord, and what imaging characteristics differentiate them from meningiomas?",
+        "ed7db839-6fc1-45e7-9b1c-bdedac2a1c69": "What are the key imaging findings associated with granulocytic sarcoma (chloroma) in patients with systemic leukemia, and how do these findings differ from those of primary CNS lymphomas?",
+        "b8d39dfc-e07f-4a70-a17b-308fdceb3cb0": "Describe the ultrasound findings associated with acute gangrenous cholecystitis, including specific features such as irregular gallbladder wall thickening, detached mucosa, echogenic sludge, deep ulceration, and striated wall thickening.",
+        "c4fbce95-c4e6-40bd-ad6c-37e424cf16a1": "How does acute gangrenous cholecystitis differ from other forms of cholecystitis based on the ultrasound findings described in the context information?",
+        "678634aa-7145-4e8a-8860-4d087ed87308": "How does MRS (Magnetic Resonance Spectroscopy) play a role in monitoring tumor response to therapy in patients with brain tumors, specifically in differentiating between recurrent tumor, radiation necrosis, post-treatment effects, and edema?",
+        "5997941a-aa9a-4a0c-a3c5-14e2bf83140f": "What are the key findings and results from studies using MRSI (Magnetic Resonance Spectroscopic Imaging) to distinguish between residual/recurrent tumor and radiation injury in patients who have undergone radiation therapy for brain tumors?",
+        "1effe4ce-7e02-4b7a-bcf1-3d5b2b2bf416": "How do the risk factors for leptomeningeal dissemination differ between primary CNS neoplasms and non-CNS neoplasms?",
+        "8e6fac67-f2d4-4a86-85a1-edfc3c66b9b7": "How are tumor dedifferentiation and proximity to CSF spaces related to the risk of leptomeningeal dissemination in cancer patients?",
+        "447ca0ec-bc8f-428a-ba4a-57f536f5f2dc": "How does the location of a colon tumor typically impact a patient's presentation? Provide examples to support your answer.",
+        "c9a0da03-7762-494e-9268-de4e87935900": "Why do tumors arising from the right side of the colon tend to be more insidious compared to those on the left side? Give specific reasons and examples from the text.",
+        "237dfcd2-97ef-450c-945f-f60b9d09e112": "What are the key imaging modalities and techniques used in diagnosing epiploic appendagitis and Clostridium difficile colitis, as discussed in the provided context information?",
+        "e14d0777-d686-4b24-8cfa-5455c1232685": "How do the CT findings differ in adult hospitalized patients with colonic abnormalities compared to those with suspected appendicitis, as outlined in the document?",
+        "4b565f4d-0f85-4847-80ed-4f44461f90df": "What is the significance of the World Health Organization classification of tumours in the context of lung, pleura, thymus, and heart tumors?",
+        "93014a13-17bc-403a-833d-4e365575149b": "Can you explain the characteristics and features of sclerosing haemangioma as described in the document?",
+        "60fe910d-a036-4476-a289-d8b65dd7d44f": "What distinguishes paraesophageal hernias from sliding hiatal hernias in terms of the positioning of the GE junction and the likelihood of reflux occurring?",
+        "55c9c277-fd34-426b-9b14-6c3899b21b22": "Describe the potential complications associated with a paraesophageal hernia where the whole stomach is positioned \"upside down\" in the chest due to volvulus.",
+        "1c9672ae-1976-48f1-b6ec-cadfe2155a30": "How do metastases typically appear on T2-weighted imaging compared to hemangiomas?",
+        "54f3a5e9-57ab-42f3-8a0d-1a9c373cfada": "Describe the typical enhancement pattern seen in chemotherapy-treated metastases on different phases of imaging, and how it differs from the enhancement pattern of hemangiomas.",
+        "8a9c616b-22f1-4cc5-9fd1-b03efdac1c56": "What are the typical symptoms and signs of primary appendiceal Crohn disease, and why is it often diagnosed only after appendectomy?",
+        "02267f4e-4b7f-48e5-9361-92618c60a87e": "How does the prevalence of appendiceal Crohn disease in younger patients compare to its occurrence in patients with colonic disease?",
+        "31ad5461-d235-4d68-a75b-3393a42b2913": "How do anaplastic astrocytomas differ in imaging findings compared to lower-grade tumors, and what are the typical characteristics seen on T2-weighted MRI?",
+        "27c18287-10d1-44fe-95c1-3a4297e2d42e": "What is the estimated percentage of primary gliomas that anaplastic astrocytomas represent, and what is the median survival rate for patients with this type of tumor?",
+        "326f46eb-205d-471c-a2fb-e6e5aaaecb7b": "Why is MRI not routinely used for assessment of patients with pleural infection, and in what situations might it be considered as a diagnostic tool?",
+        "195cab9e-5fac-4cf7-b312-64e061f30d77": "What types of malignancies can arise in the wall of chronic empyema cavities, and how can MRI be helpful in differentiating between fibrous and neoplastic tissue in such cases?",
+        "c9e629e7-8328-4d17-908e-ccf41eedecab": "How does sarcoidosis primarily affect the body, and which organs are commonly involved in this multisystemic disease?",
+        "f848df26-52f1-49fc-9761-02dbe7e4df60": "Describe the hepatic involvement in sarcoidosis and how it can manifest on cross-sectional imaging.",
+        "b80ab1f8-930a-419f-846b-5ba362f8d51f": "What is the significance of calcification of the insertions of the ciliary muscles or extraocular muscles in older adults?",
+        "91a8a587-019a-4382-a295-e03d69712a6b": "How is calcification of the ciliary or extraocular muscle insertions typically identified on CT studies, and what is the usual outcome of this finding?",
+        "8e5c6cd7-48a9-46f0-845b-2630f5983bd5": "How does splenosis typically occur and what are the potential consequences of this condition in the body?",
+        "9573504c-7f7c-494b-a9bc-a0fae9152f43": "What imaging characteristics can help differentiate splenic remnants from other abdominal masses, and what additional tests may be needed to confirm the diagnosis of splenosis?",
+        "63beff9a-709d-4c8f-afc4-9370f0474b46": "What are the three types of neurologic infections discussed in Kirkpatrick's chapter on bacteria, fungi, and parasites in the Textbook of Neuropathology?",
+        "037fa8d4-85e5-4fbf-90df-3d2060f0c8c7": "In what year was the second edition of the Textbook of Neuropathology published, and who were the editors of the book?",
+        "2e9f2930-35bd-4918-bcda-9a6e75e853ff": "How does MRI imaging compare to CT imaging in terms of sensitivity, specificity, and diagnostic accuracy for detecting and differentiating hepatic disease processes?",
+        "bdc0512c-4eea-4ffb-ae62-b9e54aa17671": "Why is good image quality crucial for the evaluation of patients in modern radiology, and what imaging techniques should be applied for liver imaging on both MR and CT to ensure good diagnostic image quality?",
+        "ffae8e86-88cd-4cd4-b6e2-ad7e95415f6c": "What are the possible differential diagnoses for a soft tissue mass near the anastomosis in the gastric remnant, as seen on imaging studies?",
+        "f2148f2b-5e20-4414-9065-a7c636877f98": "How does the increased risk of developing carcinoma within the gastric remnant in patients with a gastroenterostomy for managing gastric ulcer disease relate to long-standing gastritis and reflux of bile acids and pancreatic secretions into the stomach?",
+        "b0a38d76-6401-412c-95a4-94d8ce3d8513": "How do pancreatic pseudocysts differ in appearance and size compared to simple cysts?",
+        "b05e48d6-8177-4eba-82e4-c911874a6dce": "What characteristics can help differentiate pancreatic pseudocysts from other types of cysts in the pancreas?",
+        "0a8f9c35-bd6f-4464-9a8a-80f9449275df": "Explain the concept of partial Fourier reconstruction in MRI imaging. How does reducing the number of phase-encoding lines affect image resolution and scan time?",
+        "bf737982-dbfd-4cf9-9992-66e0fe67aae6": "Describe the technique of 6/8 partial Fourier acquisition in MRI imaging. How does this method reduce scan time while still maintaining image quality?",
+        "dc002a8a-1383-4b82-8b84-f01ffd45dcb6": "What are the key characteristics of inflammatory myofibroblastic tumors (IMTs) and in which organs of the body can they arise?",
+        "a32b1695-4fe9-4be4-8b01-dd0533c1313e": "Discuss the uncertain etiology of IMTs and their proliferation of nonneoplastic myofibroblastic spindle cells in the context of liver involvement.",
+        "6a0cf94f-2313-4ed8-975d-0b19b017fc95": "What are the early MRI findings in patients with HIV encephalitis, and which areas of the brain are typically affected?",
+        "329fbd4e-e125-4828-958e-d90f9403162f": "Describe the progression of neuroimaging findings in chronic HIV infection, including the changes in T2-hyperintense lesions and the development of cerebral atrophy.",
+        "9a0239c9-d367-4233-a50c-ee3ab62277e8": "How does a disk appear on CT scan in relation to muscle and ligaments, and why is it difficult to distinguish from ligaments based on attenuation values?",
+        "f6a3ef9d-b834-4143-adc7-bbf21516458c": "Describe the differences in intensity of a disk on T1, gradient echo, and T2 images, and explain how gradient refocused T2-weighted imaging can be useful in differentiating between structures in the spine.",
+        "e1b89179-f569-4859-ae42-379cb66587ec": "What are the common presenting symptoms of biliary papillomatosis, and at what age do patients typically present with this condition?",
+        "4a393426-e4fc-40b1-94a8-ca91ceab0327": "How is biliary papillomatosis differentiated from other endoluminal masses, and what is the recommended therapy for this rare condition?",
+        "69fc6054-a39f-45b6-ba2f-fad471cfcaa4": "How can sonography be used as a valuable tool in determining the nature of a peripancreatic fluid collection or pseudocyst in the setting of acute pancreatitis?",
+        "6ee22703-dd3a-4333-9572-87df37e6f02b": "What findings on a transverse sonogram would indicate the presence of acute pancreatitis with an infected peripancreatic fluid collection?",
+        "2eaaff76-0192-469c-b2fa-ddff5d13726a": "What are the typical imaging features of Pneumocystis jirovecii infection in the liver and spleen, and how do they differ from other splenic infective diseases?",
+        "f6849579-c64f-4aa8-ab0d-853169db85dc": "How does yeast infection in the liver and spleen differ from fungal disease, and what specific characteristic may be present in some lesions of yeast infection?",
+        "1f32284d-2eec-4adb-ab3c-7cbdd262381e": "Describe the characteristics of the granular nodular stage of cyst degeneration and the imaging findings typically seen on MRI and CT scans.",
+        "9f6f60f4-8fbb-4e60-a236-fb698bab7852": "Explain the features of the nodular calcified stage of cyst degeneration, including the appearance of lesions on CT and MRI, and the potential for reactivation at this stage.",
+        "0736c10b-a49f-4d91-b35c-4a030baf564a": "How does the sensitivity of MET PET compare to FDG PET for malignant gliomas, both low- and high-grade, according to the information provided?",
+        "ee098d44-871f-41e5-9cd5-19758cab586e": "In what ways has MET PET been shown to be valuable in the differentiation of brain neoplasms from nonneoplastic processes, as discussed in the context information?",
+        "9233cb82-ea0f-44c6-8238-55332f2635b1": "What are the imaging features of primary liver lymphoma and how do they differ from secondary liver lymphoma?",
+        "38dd624d-3710-43c6-bcf9-b2d3a4d7b4e8": "Describe the appearances of secondary liver lymphoma on MRI and CT, focusing on focal involvement.",
+        "ab8b87b0-2b68-4b0a-8acd-faf30797e76e": "What are the differential diagnoses for the multiple filling defects seen within the duodenal bulb on the single-contrast UGI?",
+        "503e447a-f2ed-4efb-8972-ff034a316c03": "How does Brunner gland hyperplasia differ radiographically from other conditions such as duodenitis, Crohn disease, nodular lymphoid hyperplasia, and heterotopic gastric mucosa in terms of the appearance of filling defects in the duodenal bulb?",
+        "0e1f270a-9844-4855-8375-9f0a1d96fed9": "What are the characteristics of a duplication cyst in the gastrointestinal tract, and where are they most commonly found?",
+        "dd0b30ee-3e6e-4916-a793-9e8d0f4526ed": "Describe the composition and appearance of a duplication cyst in the small intestine, including its relationship to the small bowel lumen.",
+        "4c7eb2ed-c0ea-4dfe-8ace-abfaacb81565": "How can reticular fibrosis be visualized on CT and MRI imaging, and what are the distinguishing features of mild to severe fibrosis on these modalities?",
+        "99942527-c504-47d9-80f9-61878216ef3d": "Describe the distinctive morphological features of cirrhosis depending on the etiology, focusing on primary sclerosing cholangitis, sarcoidosis, and other causes such as primary biliary cirrhosis, autoimmune hepatitis, alcohol-related cirrhosis, Hepatitis B and C, and NASH.",
+        "8a4917cf-a1bf-4e3e-bf02-251e8dec8703": "Explain the organization of the meninges in the brain, including the layers of dura mater, arachnoid membrane, and pia mater. How are these layers arranged in relation to the skull?",
+        "b1b33a7b-ca70-4985-934e-2a177be8bdaf": "Describe the formation and function of the dural venous sinuses in the brain. How do these sinuses drain and what is their connection to the jugular venous system?",
+        "99272fa8-e6ad-42e6-ac7a-071a4ee8fc90": "How does the study in Radiology 224(2) from 2002 categorize patients based on clinical risk group?",
+        "33e0e664-e789-44d4-9d3f-9d4f66a21c52": "What is the significance of the online publication date of May 17, 2002, for the study in Radiology 224(2)?",
+        "87edf23d-2e0d-46e3-8f61-7ad6bbebec72": "What structures separate the oropharynx from the prevertebral muscles overlying the second and third cervical vertebrae posteriorly?",
+        "fd0c0ce6-545e-4764-b55b-81c4ab0986ea": "Describe the features of the lateral oropharyngeal walls, including the muscles and structures found between the anterior and posterior tonsillar pillars.",
+        "4b04621a-a826-46e1-8c28-fce83048e946": "What are the typical mechanisms of injury that can result in fractures of the atlas, and what are the associated types of fractures that may occur?",
+        "32d38d48-1bcb-4ec9-a292-867d05cbc776": "Why is evaluation of the anterior transverse ligament essential for the prognosis of atlas fractures, and what potential consequences can occur if this ligament is ruptured?",
+        "03f6e06d-3f54-476c-9fee-4d84a9bed5b7": "What are the key characteristics of Peutz-Jeghers syndrome, and how is it inherited?",
+        "3f733d73-3847-4577-a71a-e45079ea4c3b": "What is the lifetime cumulative risk of developing malignancies in patients with Peutz-Jeghers syndrome, and in which organs are these malignancies most commonly found?",
+        "8b810907-da81-4b11-a89e-b6c242938028": "Explain the process of obtaining the unaliased image from aliased images using coil sensitivity values and ideal unaliased image voxels. How does the prescan of the patient help in this process?",
+        "d9c53486-7690-47f8-8759-5b6842cf05a5": "If we have two aliased pixels, F1 and F2, with known coil sensitivity values CA1, CB1, CA2, and CB2, how can we calculate the unknown ideal pixel values IA and IB using the equations provided in the context information? Provide a step-by-step explanation of the calculation process.",
+        "a6ee429c-2b57-4789-b765-f31a7fadf5eb": "How can the SSDE value be used as a tool for reviewing exam dose values, and why is it important in determining whether a high or low CTDIvol value is a cause for concern?",
+        "de7e12e8-ab9a-4946-ba73-41b7a04c260c": "Discuss the potential future developments in CT scanner software regarding the calculation and display of SSDE values, as well as the integration of SSDE values in the DICOM Radiation Dose Structured Report (RDSR).",
+        "ad49f1ec-c276-4664-b084-ea8f0a0f6597": "How can colonic trauma most commonly occur, and what are the potential complications associated with it?",
+        "4eea19bd-5297-4354-af22-a259bfa5582d": "What are the risks and potential consequences of rectal perforation during forceful BE tube insertion, particularly in terms of peritonitis and long-term complications?",
+        "cad311a4-ec8b-4498-b766-a48bac907adc": "How does Maximum Intensity Projection (MIP) contribute to the visualization of contrast-filled vasculature in CT angiography applications?",
+        "c51f8d2a-24ef-4718-88ec-b80817d314a9": "In what situations can Minimum Intensity Projection be used to visualize structures in medical imaging, according to the provided context information?",
+        "792797d1-d17e-4e72-94cf-e7aeb02d72c5": "Explain the importance of allowing magnetization to relax in order to achieve contrast between different tissues in imaging. How does the T2* relaxation time impact the strength of signals from tissues during this process?",
+        "d58003d8-8eb7-4ba4-8e53-8d37b89de801": "Compare and contrast the outcomes of capturing the signal immediately after the flip pulse versus waiting a long time before collecting data in imaging. How does the echo technique help to address the challenge of balancing signal strength and tissue contrast in imaging sequences?",
+        "8afeb5fa-f48b-48e4-8f6d-c67fb10c303a": "What was the topic of the paper presented at the 22nd Annual Meeting of ISMRM2014 in Milan, Italy?",
+        "deddabd8-f71a-47e1-8e57-eae91133693d": "How was slice accelerated EPI-DSC MR perfusion weighted imaging clinically implemented according to the information provided?",
+        "8b710dd4-65d5-402a-a678-e2fce4bf7cd3": "Describe the findings seen on the precontrast transverse CT image of the 34-year-old female who attempted suicide, including the presence of hemoperitoneum and splenic hematoma.",
+        "72f9541e-143b-443d-b79c-09fceb536aed": "How can splenic hematoma and active bleeding be visualized on a CT image, and what implications do these findings have for the patient's condition?",
+        "579d751c-6c0a-4ff1-96de-bfd788572c45": "How does DSC perfusion imaging using rCBV help differentiate between recurrent high-grade neoplasm and radiation necrosis? What are the key differences in rCBV values between these two conditions?",
+        "3169da4f-d834-48f7-bfa8-5e0e3addd8b2": "Explain the significance of permeability MRI or dynamic contrast-enhanced (DCE) MRI in assessing high-grade intraaxial malignancies such as glioma and metastases. How does the measurement of Ktrans contribute to tumor grading and differentiation from nonneoplastic lesions?",
+        "0de0e3ba-875e-4f4c-97aa-81c482cfe95a": "What are the common causes of esophageal perforation, and how do endoscopic perforations differ from spontaneous perforations in terms of location and presentation?",
+        "66aae6d9-8bd3-4da6-8a31-ae456682f26c": "How can esophageal perforations be detected and confirmed, and what are the potential consequences of untreated thoracic esophageal perforations?",
+        "20482736-65df-43fb-bfe7-145326fbb2e8": "How did the study by Pirzkall et al. suggest that 3D MRSI could potentially improve tumor control and reduce normal tissue radiation complications in radiotherapy treatment planning?",
+        "ca6ecaa1-e329-4333-969a-b56c71ef949a": "In the study conducted by Chan et al., what was the difference in median survival times between patients with MRSI abnormalities outside of the MRI-defined target volume and those with MRSI abnormalities inside the MRI-defined target volumes?",
+        "09b3c00b-d774-4190-85e4-e4fb35de6990": "What is the significance of calcification of the dentate nucleus compared to calcification within the basal ganglia?",
+        "1fe225f9-a3eb-4553-9112-cd95851c6006": "Why is it important to rule out Fahr's disease when massive calcification of the dentate nucleus occurs with basal ganglia calcification?",
+        "c3b23de9-ed83-4e49-bfcc-a7d29d020deb": "How does lung attenuation on a CT scan relate to Hounsfield units, and what are the typical values for water and air?",
+        "9cbeaa28-f87e-49d3-b528-cd9f5e3c5e6e": "What factors influence the attenuation of lung parenchyma on a CT scan, and what are the recommended window level and window width parameters for evaluating the mediastinum, hila, and pleura?",
+        "43edf2bc-248d-4a60-86f3-8d18d4ed40a1": "How does CT imaging compare to conventional radiography in detecting lung lesions and delineating the extent of lung disease in patients with sarcoidosis?",
+        "8dcfb67d-1f9f-4fcc-9944-822ab1a76116": "What are the typical radiographic findings of thoracic sarcoidosis in terms of lymphadenopathy, and how do they differ from lymphadenopathy caused by neoplastic disorders?",
+        "8236a7a2-a57c-48b4-8556-c265b36785b2": "What imaging findings are typically seen in hepatic involvement of extramedullary plasmacytomas on ultrasound (US)? How is this appearance described and why does it occur?",
+        "f172d81d-720f-48dd-887b-9dc57c770b44": "Describe the variable CT findings of hepatic involvement in extramedullary plasmacytomas. What are some of the reported patterns of contrast enhancement seen on CT imaging?",
+        "80305751-dd1e-4e0b-ba7d-fd1df473f466": "What are the typical symptoms that patients with pyogenic cholangitis present with, and why is early treatment crucial in preventing devastating outcomes?",
+        "e0a1ea65-29d6-49f1-a5d0-0eda7e791204": "Describe the role of imaging methods such as ultrasound (US) and color Doppler in diagnosing pyogenic cholangitis. Additionally, explain the significance of performing ERCP in patients with biliary obstruction.",
+        "81e900c4-3f7e-4ff2-b95c-a9e41ca8c116": "Where can the right coronary artery be found in the heart?",
+        "4536d939-6537-4faf-aa60-7fd2f5c23a84": "Describe the locations of the circumflex coronary artery and the left anterior descending coronary artery in relation to the heart's anatomy.",
+        "98f78a91-0c04-453b-bbce-3b62b2ad3b84": "How does the superficial layer of the deep cervical fascia change in structure as it extends anteriorly in the neck?",
+        "4c703886-c14f-450b-9c2c-e220dcc2d05b": "Describe the attachments of the superficial layer of the deep cervical fascia at both its posterior and superior ends.",
+        "995fed0d-f64f-44b8-b3d5-a3cdfc60794a": "How does the removal of the cricoid cartilage impact the surgical approach for patients with involvement of the postcricoid region in the lower hypopharynx?",
+        "524d9be6-04df-4803-992a-92cf2f46c866": "What key landmark is used to estimate the inferior extension within the pharynx in patients undergoing surgery in the postcricoid region, and how does this landmark help the surgeon in deciding the appropriate method of reconstructing the food passage?",
+        "f0cfff38-b43d-4bd1-a472-6444809331c8": "How does CT compare to US in terms of usefulness for detecting gallstones and CBD stones?",
+        "d63a11f1-d47c-4e0c-98d1-e3d4fc0b7e7f": "In what situations can thin-section multidetector CT with multiplanar reformatting be clinically useful in evaluating biliary malignancies?",
+        "fea3ebf0-1b8f-4be3-a33c-975816dad41e": "Explain the significance of the dual blood supply to the spleen in the context of a shattered spleen injury. How does this contribute to the nonenhancement of the lower polar spleen and upper pole perfusion by the short gastric arteries?",
+        "59602528-8b37-408a-9f50-56f99d6b9ba9": "Discuss the imaging findings that can indicate a splenic injury, specifically focusing on the presence of perisplenic fluid (clot) and thickening of the anterior pararenal fascia and lateral conal fascia. How do these findings help in diagnosing multiple splenic lacerations (shattered spleen)?",
+        "f3042ad7-aca2-436c-97c1-01a4fdbbbd98": "How do two-dimensional and three-dimensional T1-weighted parallel-accelerated gradient echo sequences differ in perfusion imaging of the liver?",
+        "4bdd7606-9cf8-4b71-8024-616d42d545bb": "Why is it important to balance temporal and spatial resolution in hepatic function imaging, especially when assessing diffuse liver disease?",
+        "8920ceb4-731a-4220-a264-e345b1791b12": "What structures arise from the vertical portion of the facial nerve in the mastoid portion of the temporal bone?",
+        "e347465a-6bb5-409b-9803-c519bf35c276": "How does the facial nerve exit the mastoid portion of the temporal bone, and what structures does it deliver branches to in the extra-cranial portion?",
+        "fb223c5b-fd24-47e0-a8d7-f43d63a8abb9": "How do ultrasound and CT evaluations differ in their assessment of emergent gallbladder conditions, according to the research by Bennett et al?",
+        "93a16822-9120-4d74-a1a8-9f8586145194": "In the study by Altun et al, what were the key magnetic resonance findings that helped differentiate acute cholecystitis from chronic cholecystitis?",
+        "5ef73f32-bc24-462f-aef6-18467f4d0915": "How is the subdural space formed, and what distinguishes it from the epidural and subarachnoid spaces in the central nervous system?",
+        "cfd420f9-eb14-4f11-b637-ee228e68f283": "Describe the role of the arachnoid granulations in the drainage of cerebrospinal fluid and their connection to the venous sinuses.",
+        "82ed57e8-200e-406c-8f7d-5a478d7d960d": "What are the congenital causes of bronchiectasis mentioned in the context information? Provide examples of each cause.",
+        "9c0286c5-839c-449f-b34e-fe17a44393b7": "Describe the morphological characteristics of bronchiectasis and explain how it appears on a CT scan.",
+        "b41ad9c8-c6a7-444e-b019-8ff710656412": "What are the characteristic CT signs used to establish a diagnosis of bronchiectasis, and why is HRCT scanning of the chest considered the best test for this purpose?",
+        "80a6bce6-e7cf-499e-980f-13419a57e512": "Describe the radiologic manifestations of bronchiectasis related to allergic bronchopulmonary aspergillosis (ABPA) and nontuberculous mycobacterial infection due to MAC.",
+        "d57bf7f1-7d0f-49d6-b7dd-db32c47bb8e1": "What are the common locations for schwannomas in the head and neck region, and how do they differ from neurofibromas in terms of their histologic composition?",
+        "c738a43f-12cf-46b9-97e3-6d672168521e": "Describe the imaging findings for peripheral nerve sheath tumors such as neurofibromas and schwannomas, including their appearance on CT and MRI scans.",
+        "018bc25d-9491-4240-88d9-9c443671aa93": "Describe the typical imaging characteristics of the tumor discussed in the context, including its appearance on CT and MRI, as well as any associated features such as cystic components and contrast enhancement.",
+        "2d79664f-b9e0-440d-91fc-6e5aa4ab0fda": "What are the key differences in location and growth pattern between the tumor described in the context and a typical pituitary adenoma?",
+        "a19a8f32-afcb-4023-81ee-cf517fc62ff1": "What are the characteristics of pleural lipomas on CT and MRI imaging modalities?",
+        "63cf64d2-1057-42c6-8230-5749d0056f45": "What are the most common primary tumors that produce pleural metastases, and how do they typically spread to the pleura?",
+        "ec265bf8-9b38-4a02-a8b2-5890b2a3a0a2": "What is the differential diagnosis for a patient presenting with nonvisualization of the gallbladder on a cholescintigram, and what specific condition was diagnosed in the case discussed?",
+        "efda8566-c7ca-4b7c-ac7e-575962fda1e4": "How does cholescintigraphy work in diagnosing gallbladder conditions, and what was the significance of the increased uptake around the gallbladder in the 4-hour image in the case of acute cholecystitis?",
+        "b55bfa5b-b9f5-41cb-97f4-d3cb0a31688f": "How are astrocytomas classified according to the 1993 revision of the WHO classification of brain neoplasms, and what correlation has been observed between histologic grades and the biological potential of tumors?",
+        "afb2b050-f294-4d89-808b-945592c8a199": "Describe the characteristics of astrocytomas in terms of histologic grading, mitoses, cellular dedifferentiation, angioneogenesis, and necrosis, and differentiate between circumscribed and diffuse astrocytomas based on their features.",
+        "c479f536-deac-4282-898e-1f8cc3549ed1": "How does the dual-arc detector configuration work in acquiring data during a single revolution of the scan frame? Explain how the total x-ray beam is divided into two equal beams in this setup.",
+        "25a8150d-22ee-4dc2-b79c-5fe7b3c0dadd": "Can you explain how the concept of using multiple rows of detectors can be extended from the dual-arc detector configuration described in the text? How does the total x-ray beam collimation change in systems with multiple rows of detectors?",
+        "20a04787-3c35-4bd7-b316-785d52cba4f6": "How does amyloidosis affect the liver, and what are the common CT findings associated with this condition?",
+        "acad83b6-3c6a-4444-b60a-faedd8b6e088": "How can concomitant abnormalities in the spleen help differentiate amyloid deposition from neoplasm and fatty infiltration in patients with amyloidosis?",
+        "7e5986a4-8a7e-4967-a542-12b72247f722": "How are capillary telangiectasias typically visualized on non-enhanced MRI studies, and what specific pulse sequences may be used to identify them?",
+        "0afdd855-5240-48f0-802f-6b6b10a79502": "Describe the expected MR findings of capillary telangiectasias that have hemorrhaged, including the imaging sequences that are best suited for demonstrating minor hemorrhages.",
+        "cdd220ae-6627-472b-9ed6-0918dfbe43f3": "How does occlusion of the peribiliary capillary plexus during a Transcatheter Arterial Chemoembolization (TACE) procedure lead to bile duct injury, and what are the resulting effects on the affected bile ducts?",
+        "45fc03e0-23b3-4da3-b204-62368d5e645b": "What are the distinguishing characteristics of bile duct injury related to TACE, including the development of biloma and intrahepatic cystic lesions, and how can these findings be differentiated from direct invasion of the bile duct by hepatocellular carcinoma?",
+        "8e6bbfe4-ccd3-436e-bf68-03a274d286c4": "How is spatial resolution specified in a CT scanner, and what role do spatial frequencies play in this specification?",
+        "78e40183-a3bd-4714-bd56-f867462829e6": "Explain the concept of modulation transfer function (MTF) and how it is determined using a 2D Fourier transform of the point spread function.",
+        "12ec3dad-a4e8-4dc3-929a-bb589c1504d2": "What are the differences between acute peripancreatic fluid collections and chronic fluid collections (pseudocysts) in terms of their characteristics and development?",
+        "5cbd2a3e-b767-445a-b8eb-9572e484713a": "Describe the progression of peripancreatic fluid collections and their potential evolution into pseudocysts.",
+        "855a5b1c-db99-4277-94c3-c4ce7b1f67ed": "What is the differential diagnosis for a patient with a calcified gallbladder wall containing calculi on contrast-enhanced CT imaging?",
+        "639ca25e-b010-494d-88ec-9602f6a1142e": "Why is it important to monitor patients with porcelain gallbladder for the development of gallbladder carcinoma, and what percentage of patients with porcelain gallbladder may develop this complication without undergoing cholecystectomy?",
+        "b60b8a68-4b69-4e9a-853d-255cf3f83760": "What is the recommended course of action for dominant nodules with a part-solid or solid component, according to the provided information?",
+        "401a3145-480d-42f3-8b16-b7a06308d961": "Why is it important to conduct a follow-up CT at 3 months for dominant nodules with a part-solid or solid component, as mentioned in the context information?",
+        "28f53b09-c45a-4831-bcd6-074786a9d072": "What is the recommended follow-up schedule for a nodule that is greater than 6mm but less than or equal to 8mm in size, according to the provided context information?",
+        "99b3bc74-ec84-457b-97b3-c770a171db15": "How often should a nodule that falls within the size range of greater than 6mm but less than or equal to 8mm be reassessed with a CT scan, as per the guidelines outlined in the document?",
+        "7da585cb-131b-4294-9501-0cf55b826b9d": "What are some strategies mentioned in the context information for preventing adverse reactions to contrast media in patients undergoing imaging procedures?",
+        "42926caf-9057-425f-8b29-a723780e7329": "How does contrast-induced nephropathy impact patients with chronic kidney disease, and what are some factors that contribute to its development according to the information provided?",
+        "a11bc9a1-5d5d-4e46-ab61-3ed2121f67ab": "What are the characteristic imaging findings of xanthogranulomatous cholecystitis, and how do they differ from those of chronic cholecystitis in general?",
+        "81de1538-4520-48d1-a245-26fcc2b93a48": "How does xanthogranulomatous cholecystitis typically present in patients, and what is the potential complication associated with this condition?",
+        "6291a10c-5449-4b82-b6cb-5f90eb2e104d": "What are some common symptoms of extracranial ICA dissection and what are some possible causes of this condition?",
+        "9b0da799-d8d0-416c-99dc-473b73cc9330": "Describe the imaging techniques used to evaluate an ICA dissection, including the characteristics of an intramural hematoma on CT and MRI scans.",
+        "4b2d96b4-1517-4951-9ce1-4a7a41a16832": "How does acute ingestion of alkali or acid primarily affect the gastrointestinal tract, and what are the potential consequences if a large amount of toxin is ingested?",
+        "308ea19b-367b-4111-9d31-9da1236ba0e2": "What imaging findings may indicate a poor prognosis in cases of acute ingestion of alkali or acid, and what potential complication can occur if the patient survives the acute phase?",
+        "94b21be0-b41e-457b-828c-087fb0226e40": "Explain the concept of transient hepatic attenuation defects (THAD) and how they are related to underlying neoplasms in the liver, as discussed in the case findings.",
+        "cc7eb57e-391c-4cfe-8f2d-ea1beb560550": "Describe the imaging findings and differential diagnosis for the mass within the lateral segment of the left lobe of the liver, as well as the significance of the nodular filling defect within the left lateral segmental portal vein, as mentioned in the case discussion.",
+        "e74657c6-1f10-4f20-9aad-7daca16e6167": "Why is follow-up CT recommended for monitoring conservative management of major hepatic injuries, and what is the purpose of detecting and treating delayed complications?",
+        "96851216-dc0c-4022-99a5-08518bd907c0": "How are delayed complications of major hepatic injuries typically managed, and what role do interventional procedures play in the treatment process?",
+        "c6e60e39-123b-4ee9-8ed4-c95b51330d92": "How does ASL differ in its application for pediatric perfusion imaging compared to adults, and what factors contribute to the improved image quality in children?",
+        "6ec5d1dd-fcf6-44a6-bd94-ee938df9424e": "What are some important applications of ASL in the pediatric population, both within the brain and outside of the brain, as mentioned in the context information?",
+        "67288626-7aaa-4952-b07c-1114c4631b7a": "What are the two most common primary malignant tumors of the spleen, and how do they differ in terms of prevalence and presentation?",
+        "41d868fa-86cf-478c-9c49-887742353fd6": "Why is it challenging to diagnose malignant tumors of the spleen based on radiologic findings, and what factors should be considered for a differential diagnosis in such cases?",
+        "dd42974d-62ac-4697-945f-139b13646a52": "What is rectal intussusception and how does it differ from rectal prolapse?",
+        "cd606494-2a25-416e-938b-59fa63b035e5": "What are the common symptoms associated with rectal intussusception, and what surgical treatment option may be necessary in some cases?",
+        "700c21a2-2a6a-4f2c-afc3-1ffb2c395446": "Describe the typical characteristics of thymomas in terms of size, location, and appearance.",
+        "27ce983a-5b6b-4846-9c04-21ab43e7f34c": "What are some of the possible variations in the appearance of thymomas, and what percentage of cases do these variations occur in?",
+        "37192842-5ed4-451a-a3b7-f0954298fe43": "What are the differential diagnoses for a 4-cm cystic mass in the tail of the pancreas, as seen on contrast-enhanced CT imaging?",
+        "50b715d9-ce72-4069-97bf-d0f8ec999555": "How can historical context help differentiate between a mucinous cystadenoma and a pseudocyst in a patient with a pancreatic mass, according to the provided findings?",
+        "ecf0a791-d8f8-42b5-b6c4-d45de118662c": "What are some examples of mesenchymal tumors that can arise from non-epithelial cells in the pancreas, as mentioned in the document?",
+        "5e63ed96-087c-410f-a2de-69f4bba6f4b5": "How are mesenchymal tumors classified according to their histologic origin, and can you provide examples of these classifications mentioned in the document?",
+        "ac3caec1-4c8e-4c9d-a439-004f738177a3": "Describe the imaging findings of penetrating pancreatic trauma in the 21-year-old female as shown in the contrast-enhanced axial and coronal CT images.",
+        "5f3e1ee7-c1a6-4bcb-9d1f-b3d7b2c839c0": "What are the potential complications associated with the multiple pseudoaneurysms or extravasation seen at the pancreatic body in the CT images of the 21-year-old female with penetrating pancreatic trauma?",
+        "ee2362d6-6924-4834-80f7-ab36e0caa40e": "What was the sample size of the study mentioned in the document, and in which journal was it published?",
+        "f8fd1dfb-0020-423a-96ed-d9cc2a0ce296": "Can you briefly summarize the findings of the study mentioned in the document regarding esophageal disorders?",
+        "71c7891d-a181-4cff-9131-5808a81d1add": "What are the advantages of using ultrasonography as the initial imaging modality for patients presenting with biliary-related symptoms?",
+        "8a7c92fe-8367-4e84-a3d7-20fbd06da893": "How can the presence of a markedly dilated common bile duct, posterior shadowing of stones, and location of stones in the mid common bile duct aid in the diagnosis of choledocholithiasis using sonography?",
+        "463e92f0-0478-48a7-aea7-cf01dcabf89b": "How does the image display system convert digital data from the reconstruction system into electrical signals for the display monitor?",
+        "8b80163b-40ff-407f-a09b-a1db750c240e": "What are some of the features and functions of the display system that assist users in interpreting clinical images?",
+        "73a0ae5e-7696-463d-a3fd-7907a73fbb53": "Based on the information provided, what are the key considerations in the management of unruptured intracranial arteriovenous malformations according to Auger and Wiebers' decision analysis?",
+        "1851b3ce-60fb-48ea-b064-90e422116bfe": "How do cerebral venous angiomas differ from mixed vascular malformations of the brain, as discussed in the texts by Augustyn et al. and Awad et al.?",
+        "7725b3f4-e577-47a6-8066-a30b30d93630": "How do cystic changes in the lungs differ from emphysema, and what are the mechanisms that lead to the formation of these cysts?",
+        "ed713fb7-5887-4fdc-b73a-9d12ecd32d27": "Describe the progression of lung disease in advanced cases, including the development of fibrous tissue, honeycombing, and paracicatricial emphysema.",
+        "09cb7cd8-a6f9-4100-9a2c-2a709e8224d5": "What are the common symptoms associated with lymphangiectasia, and how do they manifest in patients with this condition?",
+        "0b4626b5-31dd-4661-8cce-5dfc0c2e6160": "How is lymphangiectasia typically identified on a CT scan, and what are the potential causes of this benign disease?",
+        "9a29be5a-c60a-46cc-9e2a-372f69372067": "How can plain radiography be used to diagnose colonic changes in patients with a specific disease, and what are the potential findings that may be observed?",
+        "f891129a-9e5b-434a-9907-236c45723f7c": "In what clinical setting and based on what specific colonic changes can the disease be suggested, particularly in severely affected patients?",
+        "a422f31e-87af-4dfc-9b32-c25f0c4028e0": "On axial images, how is the mylohyoid muscle described in terms of its appearance and location in relation to the mandible?",
+        "34aad41d-186b-48a4-a741-78afafa4e966": "How can the mylohyoid muscle be distinguished from the digastric muscle on imaging, and what structures are located immediately inferior to the mylohyoid muscle?",
+        "00161667-0996-4681-a628-4f95822b6b8c": "How do variables such as slice thickness, kilovoltage, milliamperage, patient size, voxel size, and convolution filter affect image noise and contrast resolution in spiral and multislice spiral CT scans?",
+        "04a71eb7-742a-4198-b699-18ed9c613464": "Explain how temporal resolution is determined in conventional CT scans versus spiral or multislice spiral CT scans, and discuss the factors that influence temporal resolution in each type of scan.",
+        "aa3fc58c-035e-4ab2-8150-9e093268529e": "What are some advantages of CT colonography as discussed in the document?",
+        "3ccde30e-3543-4dd4-85a2-a19472621a1d": "How does CT colonography compare to other methods of colon cancer screening, based on the information provided?",
+        "eb596c91-a339-44de-af2a-648a0c34cf8d": "What are some common causes of esophageal perforations according to the context information provided?",
+        "3d188001-58b4-450b-94d3-be5280ad4f37": "How are esophageal perforations typically treated, based on the information in the document?",
+        "5f17a0c9-9623-42a8-a14d-bb9108a9b9e5": "What are the early MRI findings in patients with HIV encephalitis, and how do these findings progress in chronic HIV infection?",
+        "776125a4-789e-4545-a89b-4ddb5154377a": "Describe the neuroimaging findings associated with chronic HIV infection, including the locations and characteristics of the lesions observed.",
+        "ea298605-1187-472f-827b-cd3eb3f8cecf": "In the scenario described, what are some of the unique challenges faced when performing a CT scan on a patient who arrives unconscious and unable to move in an emergency setting?",
+        "7a6f905c-acbb-4d10-8c52-9b4595745f00": "How does the protocol for a trauma CT scan differ in an emergency setting compared to a non-emergency setting, particularly in terms of patient preparation and positioning?"
+    },
+    "corpus": {
+        "c08e9089-97d1-4976-91ea-113937914961": "Leptomeningeal seeding occurs in up to 60% of patients with primary CNS lymphoma, generally late in the course of the disease. Although malignant cells may be readily detected on CSF cytology, detection of subarachnoid tumor spread on imaging studies has been problematic. Imaging verification of leptomeningeal neoplasm, which is visible as parallel linear streaklike contrast enhancement, may be more easily and reliably detected on FLAIR and T1-weighted postg-adolinium MRI than on postcontrast CT.155,199,287,381An unusual form of presentation of primary CNS lymphoma simu-lates diffuse white matter disease with patchy and diffuse infiltration of deep white matter as well as deep gray matter. Poorly marginated areas of T2 hyperintensity are seen scattered through the deep cerebral white and gray matter and in the pons. The pattern is similar to that of gliomatosis cerebri. This entity has been termed lymphomatosis cerebri.\n",
+        "c2953132-6ca9-4026-aa8e-50ea6aace18b": "If a tumor is localized to the upper pyriform, a supraglottic resec-tion may be considered along with resection of the tumor. A tumor that invades the paraglottic region of the larynx can follow the para-glottic pathway to reach the level of the true vocal fold (Fig. 25-15).\n",
+        "aeb37460-eba7-4043-8565-682997e68b37": "Liposarcoma is one of the most frequent malignant soft tissue tumors in adults. It should be suspected whenever a large (>5\u202fcm) fat-containing soft tissue tumor is found, especially when it is clinically associated with pain and rapid growth. Well-differentiated liposar\u00adcoma displays a hypointense fat intensity (\u226420 HU) mass on CT; the tumor shows signal intensities similar to those of subcutaneous normal fat on MRI. Poorly differentiated liposarcoma displays tissue density on CT and low signal intensity on spin echo T1-weighted and high signal intensity on T2-weighted MRI with intense early enhancement on dynamic acquisition contrast-enhanced images. Ill-defined borders, and especially nonfatty heterogeneous content, indicate the high \u2003probability of malignant tumor.\n",
+        "faebee08-3c24-41c0-9d59-792def5111c8": "Intravenous contrast is often used in the evaluation of inflamma-tory, infectious, neoplastic, and vascular orbital diseases. For evalua-tion of vascular lesions, a bolus injection may be used for better depiction of its arterial blood supply.\n",
+        "f0d934f1-7c0a-4239-911c-bdc88413fc5d": "Malignant pleural mesothelioma.\u2002 Malignant pleural mesotheli-oma (MPM) is an aggressive tumor arising from the parietal pleural surface. Though MPM was once a rare malignancy, worldwide inci-dence is increasing, most likely due to exposure to carcinogenic asbestos fibers, a known risk factor. Incidence is expected to peak from 2015 to 2020. The most common clinical presentation is an elderly male with pleural effusion and pleuritic chest pain who has a history of exposure to asbestos.106 Focal mass and advanced disease indistinguish-able from advanced lung cancer are more rare presentations. Disease is difficult to manage and prognosis is poor, with median survival of 9 to 17 months after diagnosis.117 There are three histologic subtypes of MPM with different biological behaviors and natural histories. Epithe-lioid mesothelioma is the least aggressive and has the best prognosis; sarcomatoid and mixed (\u201cbiphasic\u201d) tumors are often metastatic at the time of presentation.45 Histologically, sarcomatoid MPM possesses higher cellular and microvascular density and larger nucleus-to-cyto-plasmic ratios than epithelioid subtypes.47 The risk of tumor seeding with nonexcisional biopsy has prompted development of imaging tests that can predict tumor characteristics noninvasively20 (Fig. 39-20).\n",
+        "2759bdc3-265c-4cd2-a63b-9d7d81356610": "Whichever technique is used (SBFT or enteroclysis), the radi-ologist should periodically palpate the small bowel while the patient is still on the fluoroscopic table to displace loops of small bowel away from each other to identify any disease. Otherwise, abnormalities may remain hidden by the overlapping loops filled with dense barium. Any abnormality should be recorded with spot images and in orthogonal planes. An abnormality in one plane may be better appreciated in another.\n",
+        "1e3f4bd6-de88-44d7-849d-047ace472133": "Ersan Altun1, Mohamed El-Azzazi1\u201a2\u201a3\u201a4, Richard C. Semelka1, and Mamdoh AlObaidy1\u201a5 1The University of North Carolina at Chapel Hill, Department of Radiology, Chapel Hill, NC, USA 2University of Dammam, Department of Radiology, Dammam, Saudi Arabia 3King Fahd Hospital of the University, Department of Radiology, Khobar, Saudi Arabia 4University of Al Azhar, Department of Radiology, Cairo, Egypt 5King Faisal Specialist Hospital & Research Center, Department of Radiology, Riyadh, Saudi Arabia \u2022 Chronic liver diseases progress to the formation of liver fibro- sis and cirrhosis. The most common chronic liver diseases are non-alcoholic fatty liver disease, chronic hepatitis C infection, chronic hepatitis B infection, and alcoholic hepatitis. Other, less prevalent chronic liver diseases include autoimmune hepatitis, primary biliary cirrhosis, primary sclerosing cholangitis, Wilson\u2019s disease, hereditary hemochromatosis, congenital hepatic fibrosis, alpha-1-antitrypsin deficiency, and cystic fibrosis. \u2022 Repetitive hepatocyte injury from various causes leads to the development of liver fibrosis, which is characterized by deposition of an abundant volume of collagen and proteo- glycans in the extracellular matrix. Collagen is produced in excess amounts by hepatic stellate cells induced by fibrogenic cytokines. \u2022 Development of liver fibrosis is a component of wound- healing mechanism. Therefore, liver fibrosis on its own is reversible and may regress initially. However, progressive liver fibrosis due to repetitive and chronic injury may lead to cirrhosis, which is an irreversible condition. \u2022 The pattern of fibrosis pathologically differs for chronic viral hepatitis, and fatty liver disease/alcoholic hepatitis. \u2022 In chronic viral hepatitis, fibrosis starts in the portal triads characterized by focal fibrotic expansion of portal triads (stage F1). The extension of thin fibrous septa, arising from the expanded portal triads, into the adjacent liver parenchyma occurs in the next stage (stage F2). Further thickening and elongation of fibrous septa lead to the formation of fibrous bridges connecting adjacent portal triads and central veins (stage F3). Further enlargement and merging of fibrous bridges divide the liver parenchyma and lead to the forma- tion of regenerative nodules surrounded by fibrous tissue (stage F4). \n",
+        "ded17b12-6949-4b39-bc22-85d1bab69112": "Intraductal-growing CC is a low-grade papillary adenocarci-noma, composed of innumerable frond-like infoldings of columnar epithelial cells and \ufb01 brovascular cores. The tumor cells are con\ufb01 ned within the mucosal layer, spread super\ufb01 -cially without invading the submucosal layer. The tumor cells are friable and may slough spontaneously from the walls of the bile ducts. The tumors are usually small, sessile, or polypoid, but sometimes a large mass may occlude an aneurysmally dilated bile duct. The biliary tract may be dilated diffusely in a lobar or segmental fashion. When an intraductal CC produces a large amount of mucin, it is called intraductal papillary mucinous neoplasm (IPMN) of the bile ducts.",
+        "3fb61adf-1d7a-4f3c-9ef8-13586ad2e381": "15.3  Benign GB Tumors Benign neoplasms are originated from the epithelial and nonepithelial structures that compose the normal GB.",
+        "6ff85614-c816-45d2-a518-67feddc6ea92": "The spontaneous changes in brain activity are not random, with spatially distinct brain areas demonstrating patterns of variable tem-poral synchrony. This temporal synchrony occurs generally in the fre-quency range of approximately 0.1 to 0.01\u202fHz. When linking highly synchronous brain regions together, a set of intrinsic networks of the Processing of rs-fMRI partially mirrors that of tb-fMRI to include slice timing correction when appropriate, motion correction/realignment, detrending, and spatial smoothing if necessary. However, additional processing steps are necessary depending on the analysis method used to diminish false correlations related to physiologic noise and motion. In fact, motion can significantly alter functional connectivity measure-ments, enhancing short-range connectivity and diminishing long-range connectivity.45,46 In studies where motion characteristics may differ on a global scale between groups, caution must be taken to account for these motion-related effects.23 In addition to motion-related artifacts, physiologic noise of cardiopulmonary origin can \u2003also contribute to rs-fMRI artifacts.34 Here, ideal nuisance reduction involves prospective recording of cardiac and pulmonary signals to \u2003be regressed from the fMRI volumes obtained. However, insofar as real-time recording is often impractical, solutions have been derived that allow retrospective removal of noise, typically involving regression of signal from white matter and cerebrospinal fluid from the rs-fMRI volumes.3,35 Need for removal of average global signal is debated.10,61 High-pass or bandpass filtering is commonly performed in seed-based analysis to limit signal detection in frequency bands of interest. High-motion volumes of rs-fMRI may be removed to improve overall quality of the remaining signal.\n",
+        "12a3f8c0-115f-4509-9731-aee172764641": "[]: Case_type: Case",
+        "aeff820d-fe2b-4904-8537-a7dda1dd1d43": "Secondary CNS Lymphoma.\u2002 Approximately one third of patients with systemic lymphoma demonstrate secondary brain or spinal involvement.20 The majority of secondary CNS lymphomas are T-cell lymphomas with a propensity to first involve the leptomeninges sur-rounding the brain and then extend into cerebral parenchyma along the Virchow-Robin spaces in the periphery of the cerebral hemispheres. Both focal and diffuse thickening of the arachnoid occurs, and infiltra-tion also extends into the overlying dura. As in the primary CNS lymphomas, multicentricity is common, but the masses are predomi-nantly peripherally rather than deeply situated. Thick plaques of tumor on the brain surface that are isointense to the adjacent brain on T1- and T2-weighted images and demonstrate homogeneous contrast enhancement (Fig. 9-47) may simulate the appearance of meningioma; in general the tumor masses of lymphoma are more numerous and more extensive than those of meningioma and often extend into the subarachnoid space and underlying brain parenchyma.15Granulocytic Sarcoma (Chloroma).\u2002 Granulocytic sarcoma (for-merly known as chloroma) is a focal collection of leukemic cells that form a solid mass projecting inward from the meninges or within the brain parenchyma contiguous with the ventricular wall ependyma in patients with systemic leukemia, typically acute or chronic myeloge-nous leukemia. In approximately one third of cases, the tumor may actually precede development of the systemic disease. On CT the lesion appears hyperdense or isodense relative to brain parenchyma, with unsharp margins. On MRI it demonstrates heterogeneous isointensity or hypointensity relative to gray matter on T1-weighted images and isointensity to hyperintensity on T2-weighted images. Homogeneous contrast enhancement of the tumor is the rule121,130,286 (Fig. 9-48).\n",
+        "249ac875-1f36-4d2e-af2f-b7b920fb2077": "13.7.3  Acute Gangrenous Cholecystitis Fig. 13.3 Acute gangrenous cholecystitis. ( a ) Irregular gallbladder wall thickening ( arrowheads ) with detached mucosa ( arrow ) is seen on ultrasound. Echogenic sludge is seen ( asterisk ). ( b) . Deep ulceration ( arrowheads ) with loss of normal wall layer toward gallbladder bed is seen on ultrasound. ( c ) Striated wall thickening is seen ( arrowheads ).",
+        "7237e2bb-3663-4973-b591-35689bc2cb10": "MD value [x 10\u20133 mm2/s]P = 8 \u00d7 10\u221227Monitoring Tumor Response to TherapyMRS may be able not only to facilitate diagnosis and accurate classifi-cation of de novo brain tumors but also to allow differentiation of recurrent tumor and tumor progression from radiation necrosis, posttreatment effects, and edema.36,52,53,296 Thus MRS may be useful in evaluating the response to therapy in patients with brain tumors. Radiation necrosis occurs from approximately 6 to 24 months after completion of conventional therapy, is seen more commonly with high-grade astrocytomas, and may be indistinguishable from recur-rent tumor by conventional Gd-enhanced MRI.53 Elevated Lac levels are seen in proton MR spectra of patients who have received 40 Gy or more of radiation to the brain, even when the conventional MRI study does not yet demonstrate any structural abnormality within the One study involving 25 patients with cerebral astrocytomas who received a combination of radiation and chemotherapy demonstrated increased Cho/NAA and Cho/Cr ratios as well as the presence of Lac in recurrent tumors, compared to markedly decreased levels of NAA, Cho, and Cr and the presence of a broad intense signal between 0 and 2.0\u202fppm in cases of radiation necrosis.53,102 This broad signal, between 0 and 2.0\u202fppm, consists of free fatty acids, Lac, and amino acids.53,102 However, because most therapy-induced tissue damage occurs in combination with areas of viable tumor, single-voxel techniques are not optimal for evaluation of these patients, and 3D MRSI is preferable for distinguishing among areas of residual or recurrent tumor, radia-tion necrosis, and viable normal brain tissue.52,372 Sensitivity and spec-ificity of proton MRS for the detection of residual/recurrent tumor in radiated patients in one series were 71% and 100%, respectively, and serial MRS in the same series allowed differentiation of necrosis \u2003and tumor progression; progressive decreases in Cho levels and mild increases in NAA levels correlated well with therapy success.52,333 Elmogy et\u202fal.99 in a 23-patient study with 2D MRSI found that Cho/NAA ratios were the best discriminators of recurrent/residual tumor from radiation injury. In this study using a cutoff of 1.8 for the Cho/NAA ratios, an accuracy of 96%, a sensitivity of 93%, and specificity of 100% were found. In a 3D MRSI of 28 patients, Zeng et\u202fal.,372 using a cutoff of 1.71 for either Cho/Cr or Cho/NAA, resulted in a ROC analysis of 96.2% for accuracy, 94.1% for sensitivity, and 100% for specificity of MRSI in discriminating recurrent/residual tumor from radiation injury.\n",
+        "31bc3cc0-a121-4b77-ad44-fdd216665341": "Risk Factors for Leptomeningeal Dissemination  The risk factors for leptomeningeal dissemination differ somewhat for primary CNS and non-CNS neoplasms but are largely related to tumor dedifferentiation and proximity to CSF spaces.\n",
+        "46ff3104-ed10-4574-8fbd-c2df9c5c8949": "The location of the tumor usually dictates patient presentation. Tumors arising from the right side of the colon are more insidi-ous, perhaps because the colon is wider and therefore tumors less often cause obstructive symptoms. This premise does not hold for cecal tumors that involve the ileocecal valve, which can cause early small bowel obstruction (Figs. 5-63 and 5-103). Patients may present with pain, but it is more likely that the tumor will bleed intermittently, often asymptomatically, and that the patients ulti-mately present with the symptoms of anemia rather than the direct local effects of the tumor. Left-sided colon tumors, in contrast, present more commonly with symptoms of obstruction because luminal narrowing is more prevalent (Fig. 5-104). Occasionally tumors are so indolent that the patient presents with a very large mass that has not yet declared itself with bleeding or obstruction.\n",
+        "b97ddc7e-ab8c-4a7f-bc9c-cf1a5cbf6a73": "Almeida AT et\u00a0al: Epiploic appendagitis: an entity frequently unknown to oral and IV contrast material versus IV contrast material only. AJR 193: Clostridium difficile colitis: prevalence and significance of findings. AJR Ash L et\u00a0al: Colonic abnormalities on CT in adult hospitalized patients with clinicians\u2014diagnostic imaging, pitfalls, and look-alikes. AJR 193:1243-1251, Anderson SW et\u00a0al: Abdominal 64-MDCT for suspected appendicitis: the use of Ambrosini R et\u00a0al: Inflammatory chronic disease of the colon: how to image. Eur J CT findings. Radiology 210(2):429-435, 1999.\n",
+        "b1363ef8-40ac-4ddb-9de5-69c28a35a3da": "67.\t Devouassoux-Shisheboran MNA, Leslie K, Niho S: Sclerosing haemangioma. In Travis WDBE, Muller-Hermelink HK, Harris CC, editors: World Health Organization classification of tumours: Tumours of the lung, pleura, thymus and heart, Lyon, France, 2004, IARC Press, pp 115\u2013117.\n",
+        "9a30fffa-a9f9-4934-83ae-7cfc629b183f": "Far less common are paraesophageal hernias (rolling hernias) in which the GE junction remains within the abdomen, so reflux is much less likely to occur compared with sliding hiatal hernias. Rather, the gastric fundus passes up into the chest and lies to  the left of the lower esophagus (Fig. 1-20). These are generally irreducible but are more likely to be asymptomatic compared with sliding hiatal hernia, due to GERD in the more common sliding hernias. On the other hand, a variant of the paraesopha-geal hernia occurs when the whole stomach lies \u201cupside down\u201d in the chest because of volvulus, which may be obstructing or nonobstructing (see \u201cGastric Volvulus\u201d in Chapter 2) and which is at greater risk of strangulation and perforation (Fig. 1-21). This is also the case with the even rarer combination of a sliding hernia and paraesophageal hernia, whereby the GE junction lies in the chest along with the gastric cardia (Fig. 1-22). Therefore, the GE junction lies in the chest with the herniated gastric fundus lying alongside and to the left of the lower esophagus.\n",
+        "20bb47f5-4754-4811-947d-7941fb60c6a3": "\u2022 Metastases usually demonstrate mildly high signal on T2-WI while hemangiomas show moderate to markedly high signal on T2-WI (Figure 6.32). \u2022 Chemotherapy-treated metastases may show peripheral nodular enhancement on the hepatic arterial dominant phase and progressive enhancement on later phases (Figure 6.32). However, they do not show typical enhancement pattern of hemangiomas, which is characterized by discontinuous peripheral nodular enhancement on the hepatic arterial dominant phase, followed by coalescence of nodules on later phases. \n",
+        "bd2d9c76-fbef-49dd-8c87-d40971b72c3c": "Primary appendiceal Crohn disease is rare. It is more common in younger patients and isolated to the appendix in most cases. It usually presents with symptoms and signs of appendicitis and is therefore diagnosed only after appendectomy. Surgical removal is usually uncomplicated with Crohn disease limited to the appen-dix, but if Crohn disease is elsewhere, recurrent disease is com-mon. Appendiceal Crohn disease is most commonly part of more florid disease (Fig. 5-165); up to 50% of affected appendices are in patients with colonic disease.\n",
+        "8ae62981-e80e-4e76-b2ec-382414ff35b7": "Reflecting the increased histologic variation, the imaging findings are also less homogeneous than in the lower-grade tumors (Figs. 9-10A and 9-11A). On T2-weighted MRI, anaplastic astrocytomas are most often heterogeneously hyperintense, frequently involve the overlying cortex, and are associated with a greater degree of vasogenic edema and overall mass effect (see Fig. 9-11A). Restricted diffusion is often identified within these tumors, likely reflecting foci of increased cel-lularity. Contrast enhancement is common on both CT and T1-weighted MRI (see Figs. 9-10B and 9-11B and C); compared with glioblastoma (grade IV) the enhancement pattern is often not ringlike but rather patchier. Although the region of contrast enhancement may appear discrete, infiltration of tumor cells beyond the margin of enhancement into the edematous surrounding white matter is nearly always present, often referred to as infiltrative edema.96Current estimates indicate that anaplastic astrocytomas represent about 25% of all primary gliomas of the brain.275 Median survival for patients with anaplastic astrocytoma is 2 to 3 years. Most tumors progress relatively rapidly to frank glioblastoma with intratumoral necrosis.\n",
+        "d4d1b9ed-fd00-4bca-8c5e-5eb0d3a3d2c8": "MRI is not routinely used for assessment of patients with pleural infection owing to its poor spatial resolution and higher likelihood of motion artifact compared with CT. However, MRI is a sensitive tech-nique for demonstrating septations within a pleural collection and \u2003may be used if contrast administration is contraindicated or if there is concern about radiation exposure. Rarely malignancies may arise in the wall of chronic empyema cavities and are detected by MRI, which allows differentiation of fibrous from neoplastic tissue. Malignancies associated with chronic empyema include non-Hodgkin\u2019s lymphoma, squamous cell carcinoma, mesothelioma, and sarcoma.\n",
+        "14f3af50-e56a-45b2-8389-c17dff5db335": "Granulomatosis with Polyangiitis  Sarcoidosis, a multisystemic disease of unknown cause, produces noncaseating granulomatous disease that primarily affects lymph nodes and the lungs but also the eyes, skin, liver, and spleen. Hepatic involvement can lead to diffuse hepatosplenomegaly, which otherwise appears homogeneous at cross-sectional imaging (Fig. 6-55). Multiple small sarcoid nodules can also be present, but these are more common in the spleen.\n",
+        "eb860727-e2ce-42c1-981d-ada99b18d4d8": "Calcified Ciliary or Extraocular Muscle Insertions.\u2002 Calcification of the insertions of the ciliary muscles (ciliary bodies) or extraocular muscles is commonly seen in older adults. This is usually an incidental finding on CT studies (Fig. 20-46).\n",
+        "20d70d71-8837-4d91-a950-7d657dce5848": "SPLENOSIS AND RESIDUAL SPLENIC TISSUESplenosis is usually secondary to blunt splenic trauma, in which either the whole or parts of the shattered spleen distribute splenic tissue throughout the abdomen and pelvis. The chest may be involved if the diaphragm is breached, and sometimes other organs are affected if they also underwent traumatic laceration. Similarly, splenic remnants can remain after splenec-tomy (Fig. 7-6). These nodules, which are often multiple, must be differentiated from other abdominal masses, although their smooth-walled, homogeneous, and rounded appearance and their enhancement characteristics, similar to those of the spleen, should be a clue to the diagnosis. The diagnosis may ultimately require 99mTc-labeled red blood cells or sulfur colloid tests to confirm the splenic nature of the mass, whether in the abdomen (Fig. 7-6) or in the mediastinum (Fig. 7-7).\n",
+        "02a19355-e8b7-4119-b464-da109b40e37c": "90.\t Kirkpatrick J: Neurologic infections due to bacteria, fungi, and parasites. In Davis R, Robertson D, editors: Textbook of neuropathology, ed 2, Baltimore, 1991, Williams & Wilkins, pp 719\u2013803.\n",
+        "d09d6581-7b5f-4cf1-a296-20b5e57832f7": "Ersan Altun and Richard C. Semelka The University of North Carolina at Chapel Hill, Department of Radiology, Chapel Hill, NC, USA The main cross-sectional imaging techniques of the liver include MRI and CT imaging. MR imaging is the best technique for the imaging of the liver and has higher sensitivity and specificity and resultant diagnostic accuracy for the detection and differentia- tion of hepatic disease processes compared to CT, mainly due to its higher soft tissue contrast resolution despite the fact that the spatial and temporal resolution of MRI is still lower compared to CT (1). However, the gap between MRI and CT in terms of spa- tial and temporal resolution has been decreasing dramatically in the last 10 years. The main focus of this book is to summarize the most com- mon disease process of the liver briefly, to define the MR imaging features with characteristic examples and to correlate MR imag- ing features and examples with their CT counterparts. Good image quality is crucial for the evaluation of patients in all modalities in modern radiology. Therefore, imaging tech- niques which will result in good diagnostic image quality should be applied for liver imaging on both MR and CT. \n",
+        "4d8f821e-16a0-49f3-a902-675fc62c0660": "[]: Findings: Case 2.59. A. Single-contrast UGI. A lobulated filling defect (arrows) is present within the gastric remnant near the anastomosis. The stomach is distended because of partial mechanical obstruction from the mass.\nB. Contrast-enhanced CT.  A soft tissue mass corresponds\nto the filling defect (arrow).\nCase 2.60. A and B. Contrast-enhanced CT.  A soft\ntissue mass at the level of the gastrojejunostomy extends\nanteriorly and abuts the transverse colon.  \nC. Single-contrast barium enema.  Narrowing of the\nlumen of the transverse colon with mass effect along its\ninferior margin and tethered mucosal folds.\nDifferential Diagnosis: 1. Postgastrectomy carcinoma 2. Jejunogastric intussusception\nDiagnosis: Postgastrectomy carcinoma\nDiscussion: Gastric carcinoma in a gastric remnant usually occurs either soon (several months) after surgical resection for gastric adenocarcinoma as a result of subtotal tumor removal or as a primary cancer developing 20 to 30 years after gastric surgery for ulcer disease. A 2- to 6-fold increased risk has been reported for development of carcinoma within the gastric remnant in patients with a gastroenterostomy performed for managing gastric ulcer disease. The increased risk is believed to be related to long-standing gastritis as a result of reflux of bile acids and pancreatic secretions into the stomach. Increased cancer risk remains controversial, because some investigators have not confirmed this relationship. Radiologic detection can be difficult. Filling defects, mucosal ulceration, and stomal or gastric pouch narrowing are the usual findings. Suspicious findings should be evaluated further with endoscopy. Examination of the gastric remnant with the air-contrast technique is recommended because the remaining pouch is rarely accessible for compression.\nCase_type: Postoperative Stomach",
+        "86ac854b-be0c-44ad-9dad-167bf3c36daf": "with pancreatic pseudocyst. They are, however, usually well cir-cumscribed and cystic in appearance and tend to be larger than simple cysts (Fig. 9-76).\n",
+        "4d4ac9d4-2805-469b-9f07-7421e6d604b6": "Partial Fourier Reconstructions.\u2002 Another way to shorten the total scan time is to reduce the number of phase-encoding lines collected48,74 (see earlier imaging time equation). As shown in Figure 3-15 the effect on the image of reducing the number of phase-encoding lines depends on which lines are skipped. Image resolution is directly related to the extent of the k-space covered. If fewer lines of data are collected by symmetrically leaving out some of the outer portions of k-space, the scan time is reduced along with the image resolution (see Fig. 3-7). Another option is to collect all the data on one side of k-space, using the fact that the k-space of a purely real image is symmetric, and reduce the number of lines collected in the other half. This type of data col-lection is known as partial Fourier acquisition because the entire Fourier domain (k-space) has not been acquired. As an example, if the k-space matrix is 256 \u00d7 256, it would be possible to collect only 192 lines, which are not centered in k-space. Because only three fourths of the lines have been collected, the scan time is reduced by 25%. This type of acquisition is called 6/8 partial Fourier.\n",
+        "21325efc-0903-4181-9d12-1a0c3be9d3b0": "\u2022 Inflammatory myofibroblastic tumors (IMTs) are charac- terized by proliferation of nonneoplastic myofibroblastic spindle cells. IMTs are rare lesions of uncertain etiology that may arise in many organs in the body including the liver. \n",
+        "eeb33d83-3dca-41bf-a47f-36651428d39f": "Neuroimaging findings in HIV patients may be completely normal. In patients with findings of HIV encephalitis, early MRI findings include symmetric multifocal T2-hyperintense lesions in the periventricular white matter and centrum semiovale, which \u2003generally spare the subcortical U fibers.6 Chronic HIV infection results in progression of these changes, with the initially patchy T2-hyperintense lesions becoming more confluent and extensive, sometimes extending to involve the basal ganglia, cortex, cerebellum, brainstem, and spine. The white matter lesions are typically slightly hypointense on T1 images and usually do not enhance. Another prominent feature of chronic HIV infection is progressive cerebral atrophy41 (Fig. 19-12).\n",
+        "fa02fe81-653f-4955-ab6f-aabee6a16a79": "On CT scan, a disk has a water attenuation value close to that of muscle (see Figs. 8-21B and C). The disk cannot be distinguished from ligaments because of their similar attenuation values. On T1 images a disk shows low intensity (see Figs. 8-24A, 8-25A, and 8-26A), with increased intensity on gradient echo images (see Figs. 8-24B, 8-25B, and 8-26B) and T2 images. Spin echo T2-weighted imaging demon-strates the nuclei of the disks with variable intensity and shows the low signal of the anulus fibrosus, posterior longitudinal ligament, and dura with indistinguishability. Gradient refocused T2-weighted imaging is useful in differentiating the high signal of disk from the low signal of bone and yields an exquisite bone-CSF interface. On sagittal images the relationship of the anterior and posterior margins of the disk with the anterior and posterior longitudinal ligaments is well documented (see Fig. 8-26). Interruption of the ligament may suggest a tear result-ing from a herniated disk.\n",
+        "eb645ef2-82f4-43ed-9861-a007d42a0dc6": "['CASE 7.19']: Findings: A. Sonogram. Several polypoid masses are present within the dilated extrahepatic duct.\nB. ERCP.  Multiple small polypoid filling defects are present\nin the extrahepatic and visualized intrahepatic bile ducts.\nDifferential Diagnosis: 1. Intraductal mucous plugs 2. Intraductal calculi or sludge balls 3. Intraductal blood clots 4. Intraductal cholangiocarcinoma 5. Biliary papillomatosis\nDiagnosis: Biliary papillomatosis\nDiscussion: Biliary papillomatosis is an extremely rare condition; fewer than 100 cases have been described in the English literature.\nCase_type: It is characterized by multiple and recurrent papillary\nadenomas in the biliary tract.  The extrahepatic ducts and\nlarge intrahepatic ducts are most commonly involved.\nPatients usually present in their sixth or seventh decade\nwith cholangitis or obstructive jaundice.  Sonographic\nfindings usually include multiple solid filling defects attached\nto the wall of a dilated extrahepatic duct.  Differentiating\nbiliary papillomatosis from other endoluminal masses\n(nonshadowing stones, sludge balls, mucous plugs, blood\nclots, or cholangiocarcinoma) is often extremely difficult.\nFinal diagnosis still relies on histologic results.\nPapillary adenomas can secrete mucin, and mucinous\ndischarge from a dilated ampulla is a common finding at\nERCP.  Some of the elongated filling defects seen on ERCP\nlikely are mucous plugs.  Atypical and dysplastic changes\noften are present in biliary papillary adenomas, and transition\nto adenocarcinoma has been reported frequently.  Because\nof this, surgical resection of the affected segment(s) or liver\ntransplantation is the recommended therapy for this disease.",
+        "c6a5c3a9-56f4-43b1-a2de-58241bc84f37": "['CASE 8.7']: Findings: Transverse sonogram. Diffuse enlargement and decreased echogenicity of the pancreas (arrowheads) is present. A large, mixed echogenicity fluid collection (arrows) is located anterior to the pancreas, which contains echogenic debris.\nDifferential Diagnosis: Acute pancreatitis (with associated complicated peripancreatic fluid collection)\nDiagnosis: Acute pancreatitis (with infected peripancreatic fluid collection)\nDiscussion: Sonography is often a valuable tool to determine the nature of a peripancreatic fluid collection or pseudocyst. Complicated peripancreatic fluid collections or pseudocysts containing hemorrhagic or infected fluid often exhibit homogeneous fluid attenuation on CT. Sonography easily shows the complexity of this peripancreatic fluid collection in the setting of acute pancreatitis. On sonography-guided aspiration in this case, infected fluid was found.\nCase_type: Inflammatory Diseases",
+        "4035a98e-ed52-4d49-b65a-5488d85be82a": "Infection with Pneumocystis jirovecii (previously known as Pneu-mocystis carinii and misclassified as a protozoan) usually occurs in patients with AIDS and may infiltrate both the liver and spleen and is commonly associated with pneumocystis pneumonia. CT imaging features demonstrate multiple low-density lesions, but these are nonspecific findings. Yeast infection differs from fun-gal disease as it may demonstrate calcification in some lesions. Lesions also tend to be larger than those seen in other splenic infective diseases (Fig. 7-37).\n",
+        "e734d638-38c4-432d-90c8-7200893883ca": "3.\t The granular nodular stage represents a more advanced stage of cyst degeneration forming a smaller nodule. A nodular or small ring enhancing lesion with mild surrounding edema is usually demonstrated on MRI and CT.954.\t The nodular calcified stage represents the inactive end stage of cyst degeneration, resulting in a small calcified granuloma. Typically no enhancement or edema is seen. CT is the most sensitive modality for these lesions, demonstrating hyperdense foci. MRI is less sensitive, showing small T1 and T2 hypointense foci.95,141 Occasionally reactivation occurs at this stage, resulting in a calci-fied lesion with enhancement and surrounding edema that may present with seizure. Presumably this is due to an inflammatory response to residual antigens within the lesions91,90 (Fig. 10-38).\n",
+        "d285b297-dea7-41e4-8d1e-8297f8c4fc27": "To circumvent the shortcomings of FDG PET, several additional radio-tracers have been studied for brain tumor PET imaging. Amino acid analogue radiotracers are advantageous owing to diminished back-ground brain uptake and avidity for both low- and high-grade tumors. The most widely studied amino acid tracer is carbon-11 (11C) methio-nine (MET), which has demonstrated improved performance com-pared to 18F FDG.152 The overall sensitivity of MET PET for malignant gliomas (both low- and high-grade) ranges from 76% to 95% and for low-grade gliomas, 65% to 85%.152,278 Multiple studies have demon-strated improved tumor delineation with MET PET imaging compared to anatomic imaging such as CT or MRI.26,125,251,259,304 MET uptake has also been shown to extend beyond the margins of enhancement in high-grade glioma, with correlation between resected tumor size and MET uptake suggesting a role for MET PET in operative planning.178 MET PET has also proven valuable in grading of brain neoplasms \u2003as well as differentiation of neoplasm from nonneoplastic pro-cesses.84,85,166,181,221,258 In a large series of 196 patients with suspected low-grade glioma, MET PET was able to accurately distinguish between high-grade gliomas, low-grade gliomas, and chronic or subacute nonneoplastic lesions.258 A more recent study comparing MET PET, FDG PET, and 11C-choline PET showed that when using a tumor/normal brain uptake ratio, diffuse astrocytoma (grade II), anaplastic astrocytoma (grade III), and glioblastoma (grade IV) could be differ-entiated with all three radiotracers, but only MET PET could distin-guish same-grade gliomas of different types (oligodendroglioma vs. astrocytoma).181 Similar to FDG, MET uptake has prognostic implica-tions correlating with length of patient survival. MET PET is also an accurate tool in differentiating radiation change from progressive or recurrent disease, with several studies demonstrating an advantage over FDG PET.63,88,180,183,228,302,398 A recent meta-analysis demonstrated similar summary sensitivity for FDG PET (79%) and MET PET (70%) but with increased specificity for MET PET (93%) compared to FDG PET (70%) in primary glioma detection (grade II-IV).181 Improved specificity with amino acid tracers compared to 18F FDG relates to the nonspecificity of glucose uptake (i.e., inflammation) compared to the more specific uptake of amino acids in tumors.\n",
+        "89b39657-8565-4e33-962f-0ae8e1ea5bfc": "Ersan Altun1, Mohamed El-Azzazi1\u201a2\u201a3\u201a4 and Richard C. Semelka1 \u2022 Primary and secondary involvement may occur. \u2022 Primary Liver Lymphoma \u2022 Primary hepatic lymphoma is an extremely rare primary liver tumor. \u2022 Imaging features of primary lymphoma are nonspecific and may mimic imaging features of adenocarcinoma or cholangiocarcinoma. They usually present as solitary masses (Figure 8.1) although multiple foci may sometimes be seen (Figure 8.2) \u2022 They show mildly high signal on T2-WI and moderate to markedly low signal on T1-WI. Central necrosis, which shows increased moderate to markedly high signal on T2-WI, may be seen (Figure 8.1). \u2022 They are hypovascular tumors and usually show progressive heterogeneous enhancement (Figure 8.1). Peripheral thick ring-like soft tissue with or without central necrosis may be present. Early peripheral enhancement with central progressive enhancement on later phases may also be seen. Perilesional enhancement may also be present. \u2022 Secondary Liver Lymphoma \u2022 Secondary involvement of the liver by lymphoma is more common. \u2022 Hodgkin and non-Hodgkin lymphoma involvement may occur in stage IV disease. \u2022 Non-Hodgkin lymphoma is much more common. \u2022 Appearances: \u00b0 Large multiple nodules (the most common) (Figure 8.3) \u00b0 Solitary nodule \u00b0 Diffuse involvement (Figure 8.4) \u2022 On MRI and CT \u00b0 Focal Involvement: \u00b0 Lesions vary in signal intensity from low to moderately high on T2-WIs. \n",
+        "2b504ae1-d1ca-4751-8d43-d4683eea8f19": "['CASE 3.34']: Findings: Single-contrast UGI. Multiple filling defects of various sizes are present within the duodenal bulb. A metallic marker embedded on a radiolucent compression paddle is projected over the bulb.\nDifferential Diagnosis: 1. Duodenitis 2. Brunner gland hyperplasia 3. Nodular lymphoid hyperplasia 4. Heterotopic gastric mucosa 5. Crohn disease\nDiagnosis: Brunner gland hyperplasia\nDiscussion: Brunner glands are normal glandular elements located predominantly in the proximal portion of the duodenum. Glandular secretions are rich in mucus and bicarbonate, substances that protect the duodenum against acid. Hyperplasia of these glands occurs mainly in response \nto peptic ulcer disease. Radiographically, nodular filling defects are seen in the duodenal bulb and the second portion of the duodenum. \nDifferential considerations include thickened folds from duodenitis (case 3.1), which often can be obliterated with compression. Crohn disease often involves a more extensive portion of the duodenum and often is associated with changes in the distal stomach and small bowel (cases 3.15, 3.16, and 3.17). Nodular lymphoid hyperplasia usually presents with smaller, uniform-size, and diffusely and evenly distributed nodular filling defects (case 4.54). Heterotopic gastric mucosa is usually smaller and confined to the duodenal bulb (case 3.33).\nCase_type: Masses and Filling Defects",
+        "893c9798-c154-4083-86da-14396d9df98b": "Duplication cyst is also termed enteric duplication cyst and occurs anywhere along the gastrointestinal (GI) tract, although it is most common in the small intestine. Duplication cysts represent embryological abnormalities that are lined by intestinal mucosa and are contiguous with the small intestine wall. They generally do not communicate with the small bowel lumen but occasion-ally do. They are recognized as smooth, homogeneous, rounded masses in the small bowel mesentery contiguous with a loop of intestine. Their density varies from simple water density to pro-teinaceous, denser material (Fig. 4-1).\n",
+        "c6ce3930-895d-43f1-8ac7-89e908d32e11": "\u00b0 Moderate: >2 mm. The contours of the liver appear mildly undulating (Figures 11.5 and 11.6). \u00b0 Severe: >2 mm. The contours of the liver appear nodular and undulating (Figure 11.7). \u00b0 Confluent type: Commonly appears as a peripheral trian- gular area with its apex directed to the porta hepatis. It is commonly seen in segment VIII. \u00b0 On CT: The sensitivity of CT is low and therefore mild to moderate reticular fibrosis is not seen. Severe reticular fibrotic network appears as hypoattenuating fibrotic bands associated with contour undulation. Postcontrast CT exam- ination on the interstitial phase is more sensitive compared to noncontrast CT examination. Confluent fibrosis appears as a focal hypoattenuating lesion, which shows progressive enhancement. \u00b0 On MRI: \u00b0 On T1-weighted images: Out-of-phase SGE is the most sen- sitive precontrast sequence for the demonstration of reticu- lar fibrosis, including mild and moderate fibrosis. Confluent fibrosis appears as a hypointense lesion, which may be asso- ciated with volume loss and capsular retraction. \u00b0 On T2-weighted images: Acute fibrous tissue displays high signal due to higher fluid content, whereas chronic fibrous tissue displays low signal on T2-weighted images. Mild to moderate reticular fibrotic network is not usually seen. Severe fibrosis may be detected as low and/or high intensity bands. Confluent fibrosis usually shows high signal on T2-weighted images. \u00b0 Postgadolinium T1-weighted images: Reticular and conflu- ent fibrotic changes demonstrate negligible enhancement in the hepatic arterial dominant phase and progressive enhancement in later phases, which is more prominent in the interstitial phase. \u00b0 Figures 11.8 and 11.9. \u2022 Distinctive Morphological Features of Cirrhosis Depend- ing on the Etiology \u00b0 Morphological pattern of cirrhosis is usually not helpful and distinctive for the identification of etiology except primary sclerosing cholangitis and sarcoidosis. \u00b0 Advanced form of primary sclerosing cholangitis and sar- coidosis cause central regeneration with peripheral atrophy resulting in the most severe distortion of liver morphology (Figure 11.10) Early form of primary sclerosing cholangi- tis may show left lobe hypertrophy associated with bile duct changes, including multifocal stenosis, beading, and dilata- tion with or without pruned tree appearance (Figure 11.11). \u00b0 Other causes of cirrhosis may either cause prominent fibrosis associated with normal liver morphology (more common with primary biliary cirrhosis or autoimmune hepatitis) (Figures 11.12 and 11.13) or classic morphology of cirrhosis, including caudate lobe hypertrophy and lateral segment of hypertrophy (alcohol, Hepatitis B and C, NASH) (Figures 11.14 and 11.15). \u2022 Ancillary Features of Chronic Hepatitis and Cirrhosis \u00b0 Omental hypertrophy (Figure 11.16). \u00b0 Enlarged gallbladder fossa (Figure 11.16). \u00b0 Gallbladder wall edema (Figure 11.17). \u00b0 Focal or diffuse iron deposition (Figure 11.18). \u00b0 Transient perfusional abnormalities/vascular shunting (Figures 11.19 and 11.20). \u2022 Acute on Chronic Hepatitis \u00b0 Acute inflammation may be seen in the presence of chronic hepatitis. Acute inflammation is usually seen as patchy and wedge-shaped areas. \u00b0 On MRI: Acute inflammation is usually characterized by the presence of edema as demonstrated by high T2 signal and increased early transient enhancement in the hepatic arterial dominant phase. Acute inflammation may show isointense or mildly low signal on precontrast T1-weighted image. The enhancement fades in the later phases, including the hepatic venous phase and interstitial phase (Figure 11.21). \u00b0 On CT: Acute inflammation is usually characterized by the presence of early increased enhancement on the hepatic arterial dominant phase (Figure 11.21), which fades in the later phases. However, mild acute inflammation may not be detected on CT due to its lower contrast resolution compared to MRI. \u00b0 The differential diagnosis includes transient perfusional abnormality/vascular shunting, which shows the same enhancement features as acute or chronic hepatitis. However, edema is not associated with perfusional abnor- mality/vascular shunting, which is a distinguishing feature. \n",
+        "6f994945-99b3-40e1-801c-00868f13a030": "The brain is protected (from the outer to the inner layer) by the skull, meninges, and cerebrospinal fluid (CSF). The meninges are organized into dura mater, arachnoid membrane, and pia mater, in order of their proximity to the skull. The pia mater follows all the gyri and is sepa-rated from the arachnoid membrane by CSF. The potential subdural space in turn separates the arachnoid membrane from the dura. The outer parietal layer of the dura adheres to the skull. The dural venous sinuses are made between the dural reflections and their opposing edges, thereby forming the superior and interior sagittal, transverse, sigmoid, cavernous, and straight sinuses. These sinuses drain to the jugular venous system.\n",
+        "ebc162ea-a221-4d82-99f9-692d851dc864": "according to clinical risk group. Radiology 224(2):410-416, 2002; Published online May 17, 2002, doi: 10.1148/radiol.2241011223.\n",
+        "7cab0bfb-bb19-46a4-be53-be77c4524df8": "Posteriorly the superior and middle constrictor muscles separate the oropharynx from the prevertebral muscles overlying the \u2003second and third cervical vertebrae. Superiorly the oropharynx \u2003communicates with the nasopharynx, separated by the soft palate. Inferiorly the oropharynx is separated from the hypopharynx by the pharyngoepiglottic fold and from the larynx by the epiglottis and The features of the lateral oropharyngeal walls include two tonsillar The anterior tonsillar pillar (palatoglossus muscle)The posterior tonsillar pillar (palatopharyngeus muscle)Between them lies the tonsillar fossa, which contains the palatine tonsil on each side.\n",
+        "cd74b533-f994-43a0-b423-d3730e437c62": "Fractures of the atlas and transverse ligament rupture.\u2002 Frac-tures of the atlas account for 2% to 13% of acute cervical fractures.18,93 Also referred to as Jefferson\u2019s fracture, they typically occur after applica-tion of an axial load to the skull, resulting in a burst fracture of the atlas at its weakest points, the anterior and posterior arches. These fractures may be isolated or associated with other lesions such as transverse ligament injury or odontoid fractures28 (Figs. 28-7 and 28-8). Evaluation of the anterior transverse ligament is essential for the prognosis. Rupture of this structure destabilizes the atlantodental rela-tionship and can result in posterior displacement of the dens in rela-tion to the atlas.60,65 If the atlas is considered as a ring, the presence of single fractures is unusual; typically at least two fracture sites will be present. The most common fractures will be (1) posterior arch\u2014associated with hyperextension (2) burst\u2014associated with axial load, and (3) lateral mass fracture\u2014associated with lateral flexion43 (see Fig. 28-7). Isolated C1 fractures tend to not have neurologic compromise, but when displacement of the lateral masses occurs, concomitant rupture of the anterior transverse ligament is possible.\n",
+        "7b5b09fe-a087-4f35-9147-5bbb45ec0b49": "Peutz-Jeghers* syndrome either is inherited as an autosomal dominant disorder or occurs as a spontaneous mutation, due to a possible mutation on chromosome 19. It is characterized by mul-tiple benign hamartomatous polyps throughout the small bowel combined with mucocutaneous pigmentation. The polyps are sometimes recognized because they commonly produce intussus-ception. Although the polyps themselves have low malignancy potential, patients are susceptible to malignancies in multiple organs elsewhere (anywhere in the GI tract, pancreas, breast, ovary, testes, cervix, thyroid). The lifetime cumulative risk of having a malignancy is approximately 70%. The polyps can be identified at SBFT (Fig. 4-79). CT is more likely to identify any intussuscepta. They are most commonly identified in the small bowel but can be seen throughout the bowel, including the colon.\n",
+        "0446afbf-1a5e-4f03-bcd5-208f0f6b3b60": "In each aliased image, we can write down an equation for each aliased pixel, F1 and F2, in terms of the coil sensitivity values at each voxel location and the ideal unaliased image voxels:The coil sensitivities can be obtained by performing a prescan of the patient, so that CA1, CB1, CA2, and CB2, are known. In this case the only unknowns are the unaliased voxel values IA and IB. Because there are two equations and two unknowns, the unknown ideal pixel values can be calculated. The same operation is performed for all pairs of aliased voxels, resulting in an unaliased image.\n",
+        "fee53de5-e600-4f71-9a1e-326523bb0556": "SSDE is a useful tool for reviewing exam dose values; by finding the SSDE value, one can determine whether an abnormally high or low CTDIvol value is truly a cause for concern or whether it merely reflects the body habitus of the patient.51 Used prospectively the SSDE value can be established as a target or reference dose value when constructing protocols; working backward, the scanner protocols can be defined for different patient body sizes using different CTDIvol targets. This is especially useful for pediatric protocols, given the large variation in body habitus from infants through teenagers.33As of this writing, SSDE is a relatively new method, and some com-mercial software tools have been released that can collect CTDIvol infor-mation and CT images from the scanner and automatically compute SSDE values for individual exams. It is likely that in the near future, CT scanner manufacturers will develop the capability for the scanner software to calculate and display SSDE values and report them in the DICOM Radiation Dose Structured Report (RDSR). CT scanner soft-ware may also gain the ability to display a prospective SSDE before a scan, based on a patient size estimate from the scout or topogram image as well as the x-ray settings planned for the scan (which deter-mine the CTDIvol).\n",
+        "2c2de7aa-840b-44e4-8db0-4367ba9301f3": "Most colonic trauma is iatrogenic, usually as a complication from surgery or instrumentation, particularly colonoscopy (Figs. 5-146 and 5-147). Rectal perforation can occur after forceful BE tube insertion, and if the rupture is intraperitoneal, the extravasated colonic contents can cause a severe, life-threatening peritonitis. If patients survive the initial insult, they are likely to have long-term complications of multiple adhesions secondary to the origi-nal peritonitis.\n",
+        "0e73c961-e5ee-425b-adcd-76f555480992": "MIP is a preferred method for many CT angiography applications for visualization of contrast-filled vasculature. MIP enables easy viewing of an entire vessel in one image. This is because voxels repre-senting the contrast-filled vessels are most likely to be the ones with the highest values along the ray (assuming no bone along the ray). Similarly, minimum intensity projection can be used to visualize air-filled cavities.\n",
+        "56f35c0a-8f06-4c4c-aaed-22cd38def52f": "To achieve clinically useful contrast between different tissues, the magnetization must be allowed to relax for some period of time to develop different contrast at the time the signal is collected. The problem with this approach is that the strength of the signals from the tissues decreases very quickly during the waiting period. The rate of signal decay is based on the T2* relaxation time, which is very fast for most tissues. Capturing the signal immediately after the flip pulse would produce a lot of signal but very little contrast between tissues, as shown for T1 and T2 relaxation in Figure 3-2. On the other hand, waiting a long time after the excitation pulse before collecting data would result in a lot of contrast but very weak signal (also shown in Fig. 3-2). The echo technique provides a way to resolve this difficulty. Thus the majority of imaging techniques are based on either the gradi-ent echo or the spin echo sequences, with additional encoding mecha-nisms for other types of weighting.\n",
+        "cf59d45a-51c7-4841-8b57-2c21a63a73f5": "19.\t Cantrell DR, Gallagher TA, Spottiswoode B, et\u202fal: Clinical implementation of slice accelerated EPI-DSC MR perfusion weighted imaging. Paper presented at: the 22nd Annual Meeting of ISMRM2014; Milan, Italy.\n",
+        "494d735e-d4db-4366-a549-c9c3619f4e87": "26.4.5  Splenic Hematoma and Active Bleeding Fig. 26.5 Splenic hematoma and active bleeding in a 34-year-old female who attempted suicide. ( a ) Precontrast transverse CT image shows hemoperitoneum ( asterisks ) and a splenic hematoma ( arrows ).",
+        "f1fc79a4-c683-47f9-889f-70f1836c52ea": "DSC perfusion imaging has also proven to be a sensitive technique in differentiating recurrent or progressive neoplasm from radiation change.18,19,184,244,250,284,376 High rCBV typical of recurrent high-grade neoplasm (see Fig. 9-78) can be differentiated from the typically low rCBV values of radiation necrosis (Fig. 9-69). Most studies apply either absolute rCBV or rCBV ratio (typically to contralateral normal gray or white matter) thresholds with varying sensitivity and specificity depending on chosen threshold. Studies have also suggested DSC perfusion imaging using rCBV to be superior to FDG PET for this Without the application of correction methods, other quantitative perfusion parameters can be obtained, namely percentage signal recov-ery (PSR) and peak height (PH), which have been shown to be useful independent parameters in differentiating glioma from metastasis and recurrent metastatic disease from radiation necrosis.18 Additionally, PSR has recently been shown to better distinguish between glioblas-toma, solitary metastasis, and PCL than rCBV.237Permeability MRI or dynamic contrast-enhanced (DCE) MRI uses dynamic steady-state T1-weighted imaging after a gadolinium contrast bolus. High-grade intraaxial malignancy, namely glioma and metasta-ses, are dependent on neovascularity for growth, with formation of immature and \u201cleaky\u201d blood vessels resulting in increased capillary permeability.167 The most commonly measured and studied quantita-tive permeability parameter is Ktrans, a measure of the volume transfer of contrast between the blood plasma and extracellular space.402 Ktrans has been shown to correlate strongly with tumor grade,231,289,328 although threshold values are difficult to apply owing to variability in technique and the requirement of a complex model-based analysis. Therefore, various nonmodel-based semiquantitative indices have been suggested, which are derived from the time-signal intensity curve. The maximum slope of the initial vascular phase (MSIVP) has shown promise in differentiating radiation change (RC) and recurrent/progressive neoplasm (PD) with RC, demonstrating lower MSIVP values (see Fig. 9-69) than PD, which typically demonstrates a steep upslope in the initial vascular phase owing to permeable blood vessels268 (see Fig. 9-67). Using similar diagnostic criteria, high-grade neoplasm can often be differentiated from nonneoplastic lesions based on per-meability imaging.167 Additionally, preliminary studies have demon-strated correlation between Ktrans and histologic grade for atypical and typical meningiomas, a distinction that has not been demonstrated In summary, perfusion and permeability MRI are robust tech-niques that measure tumor vascularity, typically using DSC and DCE T1 MRI techniques, respectively. Perfusion imaging using absolute rCBV or rCBV ratios, and permeability imaging, typically using Ktrans, aids primarily in tumor grading and prognosis, differentiation of neo-plasm from nonneoplastic lesions, and distinguishing between recur-rent progressive neoplasm and radiation change. Semiquantitative indices through DSC (peak height, percentage signal recovery) and DCE T1 (MSIVP) MR techniques are additional parameters that can be helpful in differentiating tumor types and distinguishing between recurrent primary or secondary neoplasm and radiation change.\n",
+        "7cc47f2b-66ec-4733-910a-71407dd1be64": "['CASE 1.66', 'CASE 1.67']: Findings: Case 1.66. Single-contrast esophagram with water-soluble contrast. A large collection of extravasated contrast (arrows) is present in the mediastinum.\nCase 1.67. CT with oral contrast.  Extravasated oral\ncontrast is seen in the pleural spaces bilaterally.  Air also is\npresent within the mediastinum and pleural spaces.\nDifferential Diagnosis: Esophageal perforation\nDiagnosis: Esophageal perforation \nDiscussion: In case 1.66, the patient had a known history of achalasia, and pain developed after dilation of the lower esophageal sphincter. In case 1.67, the patient also had pain after endoscopy. Surgical repair was necessary in both cases. Esophageal perforation usually is due to iatrogenic procedures (endoscopic perforations cause 75%-80% of all esophageal leaks and occur in about 1 of 1,000 patients undergoing fiberoptic endoscopy) or spontaneous perforation (Boerhaave syndrome) from violent retching or\nCase_type: vomiting.  Most endoscopic perforations involve the cervical\nesophagus near the cricopharyngeus muscle.  Spontaneous\nrupture nearly always occurs just above the gastroesophageal\njunction on the left.  Early detection of these perforations\nis critical to patient survival.  Small cervical esophageal\nleaks often can be treated conservatively, but large leaks\nmust be surgically repaired to prevent development of a\nretropharyngeal abscess.  Untreated thoracic esophageal\nperforations have at least a 70% mortality rate (due to\nmediastinitis) if the leak is undiscovered.  \nEsophageal perforations can be suspected from the\nchest radiograph by detection of pneumomediastinum,\nwidening of the mediastinum, hydropneumothorax, pleural\neffusion, and subcutaneous emphysema.  Perforations\nsuspected on the basis of the chest radiograph or on\nclinical grounds should be confirmed by an esophagram\nwith water-soluble contrast material.  Small leaks may be\noverlooked with water-soluble contrast agents, and\nnegative studies should be followed by barium\nesophagraphy. \nCT is excellent for evaluating patients with suspected\nor known esophageal perforation.  Small amounts of\nextravasated air (pneumomediastinum) or contrast material\nand its location within the chest can be identified readily.  ",
+        "087e897a-af33-4688-b380-0a1fb7dd25d3": "These observations suggest that 3D MRSI could be a potentially important method that can be used to define more accurately tumor margins, identify areas with the highest proliferative fractions, and identify posttherapy sites of tumor recurrence. For example, Pirzkall et\u202fal.268 studied whether the metabolic information provided by MRSI-defined volumes could improve the accuracy of target volumes for radiotherapy treatment planning compared to target volumes defined by MRI. Using elevated Cho and decreased NAA as criteria, Pirzkall et\u202fal.268 compared the MRSI-defined volumes to that defined by the Gd-enhanced T1- and T2-weighted MRI studies. They found that the T2 studies estimated, as judged by the volume of the hyperin-tense T2 region, the region at risk of containing microscopic disease as being as much as 50% greater than by MRSI. On the other hand, the Gd-enhanced T1 MRI studies suggested a smaller tumor volume and a different location for highly active disease compared to the MRSI study (Fig. 17-7). They concluded that \u201cthe use of MRSI to define target volumes for RT treatment planning would increase, and change the location of the volume receiving a boost dose as well as reduce the volume receiving a standard dose.\u201d This study suggests that inclusion of MRSI data in the treatment planning process could potentially improve tumor control while reducing normal tissue radi-ation complications. This was clearly shown to have occurred in an external beam radiation therapy study of 26 patients with grade 4 gliomas in a study conducted by Chan et\u202fal.61 Patients with MRSI abnormalities (i.e., elevated Cho/NAA levels) outside of the MRI-defined target volume had decreased median survival times relative to those with MRSI abnormalities inside the MRI-defined target volumes (10.4 vs. 15.7 months).\n",
+        "c131ba62-e431-409e-b7b2-f92bd32f561c": "Dentate Nuclei.\u2002 Calcification of the dentate nucleus is uncommon compared to calcification within the basal ganglia. If massive calcifica-tion of the dentate nucleus occurs with basal ganglia calcification, the possibility of Fahr\u2019s disease should be ruled out.\n",
+        "18c359d0-1640-4d02-80b4-d69266c94514": "Lung Attenuation.\u2002 Attenuation (density) on a CT scan is expressed in terms of Hounsfield units (HU); under normal circumstances, water is 0\u202fHU and air is \u22121000\u202fHU. CT scans of the lung are usually obtained during maintained full inspiration. Normally the attenuation of lung parenchyma is determined by its relative proportions of blood, gas, extravascular fluid, and pulmonary tissue. The normal lung paren-chyma has a fairly homogeneous attenuation that is slightly greater than that of air. As lung gas volume is reduced, lung attenuation increases. A significant increase in attenuation of the lung parenchyma is seen on expiratory scans. Attenuation values are variable and influenced by the pulmonary volume and different parameters such as kilovoltage, patient size, and the particular region of the lung being assessed. Appearance of CT images on the monitor or film (hard copy) depends on the display parameters used (window level ands window width) and is limited to 256 shades of gray. For clinical practice a window level of \u2212600 to \u2212700\u202fHU and a window width of 1000 to 1500\u202fHU are recommended. Window levels of 30 to 50\u202fHU and window widths of 350 to 500\u202fHU are the recommended parameters to evaluate mediastinum, hila, and pleura.\n",
+        "1cc1750d-87da-4422-8996-f15b1ec7a496": "Sarcoidosis.\u2002 Sarcoidosis is a common idiopathic systemic disease characterized histologically by the formation of noncaseating granu-lomas. Although any organ system can be involved, the lung and medi-astinal lymph nodes are especially affected. Pulmonary involvement in sarcoidosis is usually bilateral, although it may be asymmetric. A normal chest radiograph is seen in about 10% of patients with sarcoid-osis.413 CT is more accurate than conventional radiography in detecting subtle lesions in the lung parenchyma and delineating the full extent of lung disease caused by sarcoidosis.237,328,530 Although the value of MRI in assessing chronic infiltrative lung disease is still controversial, pulmonary fibrosis can be imaged in high detail using MRI.110Lymphadenopathy is the most common intrathoracic manifesta-tion of sarcoidosis, occurring in 75% to 80% of patients. Bilateral hilar and right paratracheal lymphadenopathy are typical radiographic find-ings of thoracic sarcoidosis229,317 (Fig. 36-22). In contrast to adenopathy caused by neoplastic disorders, enlarged lymph nodes resulting from sarcoidosis tend to remain discrete and maintain their rounded nodal shape rather than coalescing into amorphous nodal masses.237,327Eggshell calcification is thought to develop only in affected nodes and is related to duration of disease.150,421 Other diseases that can produce eggshell calcifications in lymph nodes are TB, fungal infec-tions, and silicosis.\n",
+        "1f441647-0c90-4569-b023-f699da789293": "Extramedullary plasmacytomas usually involve the lungs, paranasal sinuses, or oronasopharynx, and hepatic involve-ment is rare. Imaging \ufb01 ndings of hepatic involvement are nonspeci\ufb01 c. On US, target appearance with hypoechoic halo is seen and dif\ufb01 cult to be differentiated from that of metasta-ses or lymphoma. The halo is due to the compression of nor-mal peritumoral parenchyma. CT \ufb01 ndings are variable: low attenuation without calci\ufb01 cations on unenhanced images and little or no contrast enhancement to moderate enhancement to the level of normal liver parenchyma. Peripheral enhance-ment and gradual \ufb01 ll-in, like a cavernous hemangioma, were also reported. MRI \ufb01 ndings are also nonspeci\ufb01 c: high signal on T2-weighted images and low signal in T1-weighted images. On MRI, target appearance was also reported after the injection of contrast agent.",
+        "87c743cf-a1eb-4046-89e9-c28a07908911": "Pyogenic cholangitis is usually associated with gallstones, and patients are particularly susceptible if these are associated with biliary obstruction (as can occur with other benign or malignant strictures). The infection can be devastating if not treated early. Patients present with pain, fever, and jaundice (Charcot* triad), and the infection can develop rapidly into bacteremia and over-whelming septicemia. In the correct clinical setting, US is often the imaging method of choice because it is rapidly available and is more sensitive than CT for the demonstration of intrahepatic and extra-hepatic biliary duct dilatation, especially if mild (Fig. 8-51). Color Doppler is useful to differentiate normal portal venous strictures from dilated ducts, which are sometimes difficult to identify (Fig. 8-51). Once biliary dilatation has been confirmed, ERCP is usually performed to further define the anatomical site of obstruction and also to remove stones and perform sphincterotomy with or without stent placement, particularly for neoplastic forms of obstruction. Less commonly, transhepatic \u00adcholangiography and catheter drain-age are performed, mainly for patients in whom ERCP is contrain-dicated or who have not responded to treatment (e.g., those who underwent prior upper gastrointestinal surgery) (Fig. 8-52).\n",
+        "653e323c-80cc-4c54-b9c5-b795d4b91e0e": "The coronary arteries can be detected if they are calcified or if there is fat surrounding the heart. The right coronary artery lies in the right atrioventricular groove. The circumflex coronary artery lies in the left atrioventricular groove, and the left anterior descending coronary artery lies in the interventricular groove between the left and right ventricles.\n",
+        "3bc76703-c347-4a3b-ba48-d0a1379aaf43": "Superficial layer of the deep cervical fascia.\u2002 The SLDCF is attached posteriorly to the ligamentum nuchae and the spinous pro\u00adcesses of the cervical vertebrae. As it extends anteriorly the fascia splits to envelop the trapezius and sternocleidomastoid muscles, crossing the posterior triangle of the neck. In the suprahyoid neck, the SLDCF passes over the muscles below the floor of the mouth, splits to sur\u00adround the submandibular glands, and when it reaches the mandible, divides into superficial and deep leaflets that enclose the muscles of mastication and form the masticator space. The SLDCF is attached superiorly to the external occipital protuberance, mastoid process, and skull base.\n",
+        "36b40980-55e9-414f-8b2a-a396325e785a": "The postcricoid region is that area of the lower hypopharynx that covers the posterior aspect of the cricoid cartilage. To achieve an appro-priate margin the cricoid must usually be removed, and thus a total laryngectomy is most commonly performed or organ preservation strategies considered. In these patients the inferior extension within the pharynx should be estimated to help the surgeon decide the appro-priate method of reconstructing the food passage. The key landmark is the transition from the oval appearance of the pharyngeal muscu\u00adlature to the round appearance of the esophageal musculature as appreciated in the axial plane (Fig. 25-16). This transition is closely approximated by the lower margin of the cricoid cartilage.\n",
+        "976c0919-dd54-493e-88b0-272160834234": "CT is less useful than US, although thin-section multidetector CT with multiplanar reformatting can sometimes prove clinically useful. Many gallstones demonstrate variable calcific concentra-tions, and CT detects only 50% to 70% of gallstones and even fewer CBD stones. Its main use is to evaluate for biliary malig-nancies \u00ad(gallbladder carcinoma and intrahepatic cholangiocarci-noma). Common hepatic duct and CBD cholangiocarcinomas are often small and difficult to identify by CT, but their presence can be inferred when they occlude the duct, resulting in biliary obstruction.\n",
+        "43d298ec-50aa-40e0-bece-0061ee548dba": "['CASE 9.23']: Findings: Contrast-enhanced CT. Multiple linear abnormalities divide the spleen into multiple small pieces. There is fluid about the spleen and a left pleural effusion.\nDifferential Diagnosis: Multiple splenic lacerations\nDiagnosis: Multiple splenic lacerations (shattered spleen)\nDiscussion: A shattered spleen is a severe splenic injury with a high incidence of vascular pedicle injuries. Because of the dual blood supply to the spleen by way of the splenic artery and the short gastric arteries, this condition may result in nonenhancement of the lower polar spleen with upper pole perfusion by way of the short gastric arteries. In some cases, lacerations can be subtle findings. The findings of perisplenic fluid (clot) and thickening of the anterior pararenal fascia and the lateral conal fascia can be useful indicators of a splenic injury. \nSeveral grading systems exist for classifying splenic injuries; none have been adopted for standard care and reporting.\nCase_type: Miscellaneous",
+        "6f8f5023-4ef8-439a-b940-cf72bf778ace": "Subsequent perfusion imaging is then performed with either two-dimensional or three-dimensional T1-weighted parallel-accelerated gradient echo sequences, potentially employing cyclic k-space filling techniques with selective undersampling.34 It has to be highlighted, however, that temporal and spatial resolution remain conflicting requirements in hepatic function imaging, in particular when this technique is used for assessment of diffuse liver disease, where not only high spatial but also high temporal resolution is required, in particular during the early arterial perfusion phases.\n",
+        "0ab124b3-f98f-4a25-ac99-5b79711c44c5": "The vertical, or descending, facial nerve in the mastoid portion of the facial nerve canal runs vertically just posterior to the EAC. In this vertical portion, the nerve to the stapedius muscle and the chorda tympani (the first and second branches, respectively, of the facial nerve distal to the geniculate ganglion) arise (see Figs. 21-1A-C, 21-2H, 21-5A). The facial nerve then exits the mastoid portion of the temporal bone via the funnel-shaped fat-filled stylomastoid foramen. The extra-cranial portion of the facial nerve delivers branches to the muscles and pierces the parotid gland to form the parotid plexus.\n",
+        "79aa4235-f15d-4b13-bf66-ef63b0d4389b": "Bennett GL et\u00a0al: Ultrasound and CT evaluation of emergent gallbladder Anderson SW et\u00a0al: Accuracy of MDCT in the diagnosis of choledocholithiasis. Ahualli J: The double duct sign. Radiology 244(1):314-315, 2007.Altun E et\u00a0al: Acute cholecystitis: MR findings and differentiation from chronic cholecystitis. Radiology 244(1):174-183, 2007; doi: 10.1148/radiol.2441060920.\n",
+        "50d5f29a-9dcd-42ea-83c3-dd28f21d4d59": "The meninges delimit the extraaxial compartments of the central nervous system (CNS). The epidural space is created when the dura is separated from the calvaria. Although the subdural space (between the dura and arachnoid membranes) has conventionally been character-ized as a potential space containing minimal fluid, cells of the arach-noid actually form an intimate network with those of the meningeal dural layer.49 Electron microscopy has provided evidence that cells belonging to the inner dural layer may be found on both sides of this space when collections form in the subdural space.49,67 The subdural space, therefore, is formed by cleavage through the inner layer of the dura rather than by a true separation of dura and arachnoid and as such probably exists only in pathologic states.67The SAS (between the arachnoid and pia mater) contains cerebro-spinal fluid (CSF), which flows throughout the CNS and drains into the venous sinuses through the valves of the arachnoid granulations.145 The pia and the arachnoid are joined by fine connective tissue and cellular septa that traverse the SAS.21 Near the base of the brain, though, the pia and arachnoid widely separate to accommodate the basal cis-terns. Perivascular, or Virchow-Robin, spaces were originally thought to be potential pathways connecting the CSF and deep brain structures by virtue of continuity with the SAS.44 More recent studies, however, have concluded that perivascular spaces are within the subpial space, separated from the SAS by pia mater4 (Fig. 18-2).\n",
+        "18657854-e65d-4f59-b10e-5f25f4a34177": "Bronchiectasis is characterized by irreversible bronchial dilation and airflow obstruction (Fig. 41-24) and can be focal or diffuse. Congenital causes of bronchiectasis include CF, ciliary dyskinesia (see Fig. 41-24C), Young\u2019s syndrome, Marfan\u2019s syndrome, agammaglobulinemia, immu-noglobulin deficiencies, Mounier-Kuhn syndrome, and Williams-Campbell syndrome. Acquired causes include infection (see Fig. 41-24B), chronic aspiration, and airway obstruction. Morphologically, bronchiectasis can be cylindrical (straight, uniform), varicose (bulbous, alternating dilation and constriction), or cystic (saccular; ballooned appearance with neovascularization and ulceration). On CT, bronchi-ectasis is seen as dilation of the bronchi (>1.5 times the corresponding vessel) resulting in a signet ring sign, grapelike clusters of dilated large airways, and airways seen up to the periphery of the lung (see Fig. 41-24A). Air trapping is seen with airway obstruction.\n",
+        "286fc540-2799-4f4d-b868-f4cc3da01146": "Bronchiectasis.\u2002 Bronchiectasis is a condition that is characterized by permanent dilatation of bronchi, with destruction of elastic and muscular components of their walls, usually due to acute or chronic infection. Although most cases of bronchiectasis in adults are idio-pathic, a variety of causes such as infection (bacterial, viral, fungal, mycobacterial), hypogammaglobulinemia and other immune deficien-cies (e.g., ABPA), dyskinetic cilia syndromes (Kartagener\u2019s syndrome), bronchial obstruction (e.g., foreign body, broncholithiasis, neoplasm), genetic disorders (e.g., cystic fibrosis), congenital cartilage deficiency (e.g., Williams-Campbell syndrome), and pulmonary fibrosis should be considered in the differential diagnosis.283 Kartagener\u2019s syndrome refers to the triad of situs inversus totalis, bronchiectasis, and either nasal polyps or recurrent sinusitis occurring in approximately half of patients with primary ciliary dyskinesia.283,398Although a chest radiograph must be the initial imaging examina-tion in patients with suspected bronchiectasis, in most instances radio-graphic findings are either nonexistent or nonspecific.232,233 HRCT scanning of the chest is the best test to establish this diagnosis, \u2003with sensitivity and specificity exceeding 90%.344 Morphologically, bronchiectasis is described as cylindrical, varicose, or cystic in type. The diagnosis of bronchiectasis is generally established by recognition of characteristic CT signs. Bronchial wall thickness on thin-section CT scans should be evaluated with window centers between \u2212250 and \u2212700\u202fHU and with window widths greater than 1000\u202fHU. Other than window settings, notably window widths less than 1000\u202fHU, can lead to substantial artificial thickening of bronchial walls.47 Cylindrical bronchiectasis is characterized by smooth uniformly dilated bronchi. When the dilated bronchus is sectioned lengthwise the parallel thick-ened airway walls resemble a railroad track or tram track, and sec-tioned crosswise they appear round or oval; because each bronchus is accompanied by a pulmonary artery, bronchiectasis commonly pro-duces a signet ring sign (Fig. 36-67). Lack of bronchial tapering is also an important sign in the diagnosis of bronchial dilatation. When dilated bronchi are filled with inspissated material, mucoid impaction results. On a CT scan, mucous plugs are identified by recognizing the branching tubular nature of the opacity on multiple CT sections. The term tree-in-bud refers to the presence of nodular and branching struc-tures, reflecting the presence of dilated mucus- or pus-filled centri-lobular bronchioles (cellular bronchiolitis). Tree-in-bud and air trapping (on expiratory scans) are findings commonly seen in patients with bronchiectasis. Beaded dilatation of bronchi resembling a string of pearls describes the varicose bronchiectasis. Cystic bronchiectasis is characterized by cysts in clusters, resembling a cluster of grapes (Fig. 36-68). Air-fluid levels resulting from retained secretions or superim-posed infection are commonly identified in cystically dilated bronchi. Bronchial postinflammatory changes during or immediately after an episode of acute pneumonia may simulate bronchiectasis; these changes (reversible bronchiectasis) revert to normal in 1 to 3 months.459 Traction bronchiectasis refers to irreversible dilatation of bronchi and bronchioles in areas of pulmonary fibrosis.154,635Bronchiectasis related to ABPA are seen most commonly in patients with longstanding bronchial asthma. They are characterized pathologi-cally by the presence of plugs of inspissated mucus containing Aspergil-lus organisms and eosinophils. Radiologic manifestations include homogeneous tubular finger-in-glove opacities in a bronchial distribu-tion, usually involving predominantly or exclusively the upper lobes.425 These shadows are related to plugging of airways by hyphal masses with distal mucous impaction and can migrate from one region to another. Bronchiectasis may be varicose or cylindrical, involving predominantly the segmental and subsegmental bronchi of the upper lobes.458Bronchiectasis in association with pulmonary nodules or tree-in-bud appearance is characteristic of nontuberculous mycobacterial infection due to MAC356 (Fig. 36-69). It typically occurs in immuno-competent elderly women (>60 years) with no significant smoking history or underlying pulmonary disease; this condition, usually limited to the right middle lobe or lingula, has been named Lady Win-Adult patients with cystic fibrosis typically have panlobular bron-chiectasis.246 Mild reversible bronchial dilatation may be seen with severe chronic bronchitis and be associated with acute pneumonia. Patients with an established diagnosis of cystic fibrosis may have sig-nificant worsening of respiratory symptoms with little visible radio-graphic changes.\n",
+        "e5061aae-f604-42ac-b07e-2a841aa28c0e": "The long-term prognosis for this tumor is good, with a 25% to \u200360% recurrence rate with surgery and 25% recurrence rate with radiotherapy alone. It is common to have recurrence within first 12 months of therapy and unusual after 24 months. There is increased predisposition to recurrence owing to the multilobulated nature of the tumor, leading to invasion of adjacent bones, sinuses, and fascial Tumors of neurogenic origin comprise a small but significant group of head and neck masses, with neurofibromas and schwannomas being the most common nerve sheath tumors of the peripheral nerves in the Presentation.\u2002 Solitary neurofibromas and schwannomas can be seen as sporadic lesions, and plexiform and multiple neurofibromas occur in association with neurofibromatosis type 111,65,102 (Fig. 26-22). About 25% of solitary neurogenic tumors originate along the course of a cervical or cranial nerve, with the exception of olfactory and optic nerves.65,165 From 25% to 45% of schwannomas occur in the head and neck, and the most common locations include the face, scalp, orbit, oral cavity, parapharyngeal space, middle ear, larynx, and neck.54The normal nerve fiber is ensheathed by Schwann cells and sur\u00adrounded by endoneurial fibroblasts; the Schwann cell is thought of as the precursor of the neurofibroma, schwannoma, and likely neuro\u00adgenic sarcoma.208 Neurofibromas are encapsulated nerve sheath tumors composed of Schwann cells with collagen in a mucous matrix. Solitary neurofibromas are subcutaneous and well defined, and plexiform neurofibromas are infiltrative with ill-defined margins. From 5% to 13% of plexiform neurofibromas undergo malignant degeneration.11Schwannomas are encapsulated tumors attached to or surrounded by a nerve. They are composed of two types of tissues: cellular Antoni type A and less cellular Antoni type B tissue. They are almost never associated with neurofibromatosis type 1 and rarely undergo malig\u00adNeurofibromas can be seen at any age, but schwannomas most commonly present between 20 and 50 years of age, with occasional occurrences in childhood. Neurofibromas are usually asymptomatic, whereas schwannomas are often painful and tender. The pain may be localized or radicular in nature and associated with paresthesias.11Imaging Findings.\u2002 The imaging appearance of peripheral nerve sheath tumors depends on their histologic composition, and as a result neurofibromas and schwannomas may be indistinguishable by imaging. Solitary neurofibromas and schwannomas present as well-defined lobulated masses and tend to cross fascial planes. They can appear as isointense masses to muscle, with rare calcification and variable enhancement on CT. Some 73% of solitary or plexiform neurofibro\u00admas demonstrate relatively decreased attenuation before and after \u2003contrast administration on CT. Schwannomas enhance more homoge\u00adneously with either iodinated contrast or gadolinium. On MRI, neu\u00adrofibromas are hypointense to isointense to muscle on T1-weighted and hyperintense to muscle on T2-weighted images. Variable enhance\u00adment is seen after contrast administration.\n",
+        "7422affa-2896-40c6-819c-0a3954ef6b53": "On CT and on MRI the appearance is similar to that of PA but in a different location: well circumscribed, hypodense to isodense on CT, hypointense on T1- and hyperintense on T2-weighted MRI, often with a cystic component that is isointense to CSF (Fig. 9-5A). However, the location is supratentorial (in order of descending frequency: temporal, frontal, parietal) and superficial, with little or no mass effect. Although the tumor presents a circumscribed appearance, it usually grows slowly and may infiltrate the adjacent brain and the overlying pia, even causing focal thickening of the meninges (dural tail). Intense homo-geneous contrast enhancement of the solid portion of the tumor and the overlying meninges is the rule193,194,224 (see Fig. 9-5B and C).\n",
+        "226b594b-abf7-4547-8d7f-413e36b8daed": "Lipoma.\u2002 Lipomas are rare in the pleura and show characteristics of fat on all imaging modalities. Pleural lipomas are minimally complex, homogeneous, circumscribed, fat-attenuation lesions on CT. On MRI they are hyperintense on T1- and moderately intense on T2-weighted images, with suppression on fat-saturated sequences \u2003and chemical shift artifact at their interfaces with fluid-rich tissues Pleural metastases and malignant effusions.\u2002 Metastatic disease is more common than primary pleural malignancy. Approximately 25% of all pleural effusions in elderly patients are malignant, and effu-sion is the most common finding in patients with pleural metastasis.12 The most common primary tumors that produce pleural metastases are lung, breast, ovarian, and gastric carcinomas, and lymphoma. Renal cell carcinoma and melanoma also have a propensity to metastasize to the pleura.12 Spread to the pleura may be direct (e.g., in cases of periph-eral lung cancer), lymphatic, or hematogenous. Rarely thymic carci-noma and lymphoma may spread directly to the pleural space from Metastatic disease may present as solitary implants on the costal, diaphragmatic, or mediastinal pleural surface or in the interlobar fis-sures. Contrarily it may be a circumferential rind that may be indis-tinguishable from mesothelioma12 (Figs. 39-18 and 39-19).\n",
+        "c9f40f38-de41-4a9d-a738-98e6ed5cf910": "['CASE 7.34']: Findings: Cholescintigram. A. 10 minutes after injection. Nonvisualization of the gallbladder. B. 20 minutes after injection. Nonvisualization of the gallbladder. C. 60 minutes after injection. Nonvisualization of the gallbladder. D. 4 hours after injection. Nonvisualization of the gallbladder with increased uptake within the liver about the gallbladder.\nDifferential Diagnosis: 1. Acute cholecystitis 2. Chronic cholecystitis 3. Pancreatitis 4. Hyperalimentation\nDiagnosis: Acute cholecystitis\nDiscussion: Cholescintigraphy usually is performed with technetium 99m-labeled iminodiacetic acid analogues. Today, diisopropyl- iminodiacetic acid (DISIDA) and mebrofenin are the most popular agents because they can be used in patients with hyperbilirubinemia (up to a bilirubin value of 20 mg/dL). The agent is taken up by the liver and excreted without conjugation. Normally, the gallbladder contains tracer uptake within 30 minutes after administration. Nonvisualization of the gallbladder is suspicious for cystic duct obstruction; however, some gallbladders are slow to fill (distended gallbladders and those with bile stasis), and delayed imaging is needed. False-positive studies are rare, usually due to intermittent obstruction of the cystic duct by a moving stone. False-negative results can be caused by any of the conditions in the differential list above. \nIn the case shown here, despite delayed imaging, the gallbladder never fills. The 4-hour image shows increased uptake about the gallbladder due to the adjacent inflammation (perihepatitis).\nCase_type: Gallbladder:  Inflammatory Diseases",
+        "ed2e90af-adba-43a6-87bc-a6cfcfde7e01": "Astrocytomas.\u2002 Astrocytomas (tumors derived from astrocytes) are the most common of all primary intracranial neoplasms. In the 1993 revision of the WHO classification of brain neoplasms, astrocytomas were subdivided into four histologic grades. This histologic grading system has demonstrated a high positive correlation with the biological potential and behavior of tumors. Tumors of lower histologic grades (I and II) demonstrate few mitoses, little cellular structural variation (pleomorphism), and no vascular proliferation or necrosis. Tumors in grades III (anaplastic astrocytoma) and IV (glioblastoma multiforme) are characterized by more frequent mitoses, higher degrees of cellular dedifferentiation, and increasing angioneogenesis at the tumor periph-ery and by necrosis within the more central portion of the tumor.188Astrocytomas are characterized on both gross dissection and diag-nostic imaging into two groups: circumscribed and diffuse. In general, the diffuse astrocytomas are more common, tend to occur more in adulthood, and are more infiltrative or aggressive with spread along the white matter tracts.\n",
+        "83edbb3d-297c-478d-b992-3e35457b5c0f": "The first deployment of this technology included a dual-arc detec-tor as shown in Figure 1-8. In this configuration, two parallel arcs of detectors are used to acquire data simultaneously during a single revo-lution of the scan frame, dividing the total x-ray beam into two equal beams defined by the detector aperture of each row of detectors. Con-sidering small gaps between rows, which can be ignored from the perspective of data acquisition, the total x-ray beam collimation now becomes the sum of detector row collimations (Fig. 1-9). This concept can be extended to for systems with multiple rows of detectors.\n",
+        "965a66ff-ccad-4e80-a1d9-edd4ca6d5f34": "2.2.2.4  Amyloidosis  Amyloids are proteolysis-resistant \ufb01 brils derived from monoclonal immunoglobulin light chains. In  amyloidosis , amyloid accumulates in organs and replaces the normal tis-sue. Liver is the third commonly involved organ in abdomen that follows spleen and kidneys. Amyloids accumulate in Disse\u2019s space. CT \ufb01 ndings of amyloidosis are nonspeci\ufb01 c. Hepatomegaly is the most common \ufb01 nding which can be seen in 75 % of cases. On CT, the regions in which amyloids accumulate may show variable-sized low attenuation. Delayed contrast enhancement may be seen in the involved areas because of vascular and sinusoidal in\ufb01 ltration. Concomitant abnormalities seen in the spleen are helpful in differentiating amyloid deposition from neoplasm and fatty in\ufb01 ltration. On MR, T2 signal intensities of the spleen and adrenal glands are signi\ufb01 cantly decreased, and the T2 signal intensity of the pancreas signi\ufb01 cantly increased, whereas minimal T2 signal change is seen in the liver.",
+        "4bcc36de-562f-4da3-9529-09c0cbca9500": "Capillary telangiectasias are most often not identified on nonen-hanced MRI studies using all available standard pulse sequences, but sometimes they are visualized as a poorly circumscribed focus of slightly increased signal intensity on short-TE, long-TR (repetition time), or T2-weighted spin echo or fast/turbo-spin echo imaging.227 Rare capillary telangiectasias that have hemorrhaged demonstrate expected MR findings of a collection of blood, but most often the hemorrhage is minor and remote, best demonstrated on T2*-weighted gradient echo or SWI studies. Capillary telangiectasias typically lack evidence of hemosiderin or ferritin deposition. SWI and T2*-weighted gradient echo sequences have also been reported to identify brainstem capillary telangiectasias producing focal areas of marked decreased signal intensity, presumably owing to deoxyhemoglobin within the malformation.227,468 Enhancement with Gd-based contrast agents on a T1-weighted spin echo pulse sequence is the best imaging study and demonstrates a lacy network of vessels of increased signal intensity or a focal patch of variable hyperintensity constituting the capillary tel-angiectasia25,227 (Fig. 12-65). A coexisting cavernous malformation may obscure identification of the capillary telangiectasia.22 CT usually reveals no abnormality.\n",
+        "7fa1e6db-88a3-4810-a73b-055e9d4282ca": "16.3  Nonsurgical Injury of Biliary Tract 16.3.1  Transcatheter Arterial Chemoembolization (TACE)-Related Bile Duct Injury Occlusion of the peribiliary capillary plexus by the intra- arterially injected iodized oil during the TACE procedure induces bile duct injury including ischemic change of bile duct and biloma. Affected bile ducts show disproportionate dilatation with lobar or segmental distribution. Intrahepatic cystic lesions, which suggest newly developed  biloma , can develop accompanied by segmental bile duct dilatation, with or without surrounding hyperemia. These \ufb01 ndings should be differentiated from those by direct invasion of bile duct by hepatocellular carcinoma.",
+        "9f5040f8-0ac6-435f-be79-11c8f4e4027f": "Spatial resolution can be specified by spatial frequencies, which indicate how efficiently the CT scanner represents different frequen-cies. Modulation transfer function (MTF) describes this property. A 2D Fourier transform of the point spread function taken with a very thin wire provides MTF values. These concepts are described next.\n",
+        "d4e46732-a47e-40cb-a9c7-8990ee72a45d": "Mild or moderate pancreatitis usually involves pancreatic inflammation and enlargement that may or may not be focal (grades B and C). With more severe forms, peripancreatic fluid collections develop acutely, representing pancreatic fluid collec-tions. Unlike chronic fluid collections (pseudocyst), they have no encapsulation or wall (Fig. 9-23). These collections can also occur within the pancreas or in other retroperitoneal locations. Many resolve spontaneously, but approximately 50% evolve into pseu-docysts (see below).\n",
+        "1fec8f9c-1c83-47ea-9e06-748309dd0690": "['CASE 7.45']: Findings: Contrast-enhanced CT. The wall of the gallbladder is calcified and contains calculi.\nDifferential Diagnosis: Porcelain gallbladder with cholelithiasis\nDiagnosis: Porcelain gallbladder with cholelithiasis\nDiscussion: Porcelain gallbladder refers to calcification of the wall of the gallbladder. The calcification can be either linear or punctate. This gallbladder wall calcification develops as a result of a chronically obstructed cystic duct and changes of chronic cholecystitis.  The importance of this condition is an increased risk of gallbladder carcinoma (case 7.58). In fact, in 25% of patients with porcelain gallbladder, gallbladder carcinoma develops without cholecystectomy.\nCase_type: Gallbladder:  Inflammatory Diseases",
+        "d71a0b22-4d40-422e-b83c-2b9508ca7b75": "iii. Dominant nodule(s) with part-solid or solid component. Initial follow-up CT at 3 months to confirm persistence. If persistent, biopsy or surgical resection is recommended, especially for lesions with > 5\u202fmm solid component.\n",
+        "04a0fd36-8274-4d12-b5fd-2c087c764c36": "iii. Nodule > 6\u202fmm but \u2264 8\u202fmm. Reassessment CT at 3 to 6 months and if stable again at 9 to 12 months and 24 months.\n",
+        "e75aa83c-0fa1-4f05-9550-f1ea04a86365": "5 Katayama, H., Yamaguchi, K., Kozuka, T. et al. (1990) Adverse reactions to ionic and nonionic contrast media: a report from the Japanese Committee on the Safety of Contrast Media. Radiology, 175, 621\u2013628. 6 Rudnick, M.R., Goldfarb, S., Wexler, L. et al. (1995) Nephrotoxicity of ionic and nonionic contrast media in 1196 patients: a randomized trial. Kidney Int, 47, 254\u2013261. 7 Lasser, E.C., Berry, C.C., Talner, L.B. et al. (1987) Pre-treatment with corticosteroids to alleviate reactions to intravenous contrast mate- rial. N Engl J Med, 317, 845\u2013849. 8 Greenberger, P.A. and Patterson, R. (1991) The prevention of immediate generalized reactions to radiocontrast media in high risk patients. J Allergy Clin Immunol, 87, 867\u2013872. 9 Lasser, E.C., Berry, C.C., Mishkin, M.M. et al. (1994) Pretreatment with corticosteroids to prevent adverse reactions to nonionic con- trast media. AJR Am J Roentgenol, 162, 523\u2013526. 10 Mehran, R. and Nikolsky, E. (2006) Contrast-induced nephropathy: definition, epidemiology, and patients at risk. Kidney Int, 69, S11\u2013S15. 11 Gleeson, T.G. and Bulugahapatiya, S. (2004) Contrast-induced nephropathy. AJR, 183, 1673\u20131689. 12 Murphy, S.W., Barrett, B.J., and Parfrey, P.S. (2000) Contrast nephropathy. J Am Soc Nephrol, 11, 177\u2013182. 13 Solomon, R., Biguori, C., and Bettmann, M. (2006) Selection of con- trast media. Kidney Int, 69, S39\u2013S45. 14 Tombach, B., Bremer, C., Reimer, P. et al. (2002) Using highly concentrated gadobutrol as an MR contrast agent in patients also requiring hemodialysis: safety and dialysability. AJR Am J Roentgenol, 178, 105\u2013109. 15 Ergun, I., Keven, K., Uruc, I. et al. (2006) The safety of gadolinium in patients with stage 3 and 4 renal failure. Nephrol Dial Transplant, 21, 697\u2013700. 16 McCullough, P., Adam, A., Becker, C.R. et al. (2006) Epidemiology and prognostic implications of contrast-induced nephropathy. Am J Cardiol, 98, 5K\u201313K. 17 Bruce, R.J., Djamali, A., Shinki, K. et al. (2009) Background fluctua- tion of kidney function versus contrast-induced nephrotoxicity. Am J Roentgenol AJR, 192, 711\u2013718. 18 Perrson, P.B. and Tepel, M. (2006) Contrast medium-induced nephropathy: the pathophysiology. Kidney Int, 69, S8\u2013S10. 19 Persson, P.B., Hansell, P., and Liss, P. (2005) Pathophysiology of con- trast medium-induced nephropathy. Kidney Int, 68, 14\u201322. 20 Katzberg, R.W. and Haller, C. (2006) Contrast-induced nephrotoxi- city: Clinical landscape. Kidney Int, 69, S3\u2013S7. 21 Katzberg, R.W. and Barrett, B.J. (2007) Risk of iodinated contrast material-induced nephropathy with intravenous administration. Radiology, 243, 622\u2013628. 22 Thomsen, H.S., Morcos, S.K., Erley, C. et al. (2008) The ACTIVE trial: comparison of the effects on renal function of iomeprol-400 and iodixanol-320 in patients with chronic kidney disease undergo- ing abdominal computed tomography. Invest Radiol, 43, 170\u2013178. 23 Levy, E.M., Viscoli, C.M., and Horwitz, R.I. (1996) The effect of acute renal failure on mortality. A cohort analysis. JAMA, 275, 1489\u20131494. 24 Cowper, S.E., Robin, H.S., Steinberg, S.M. et al. (2000) Scleromyxoedema-like cutaneous diseases in renal-dialysis patients. Lancet, 356, 1000\u20131001. 25 Cowper, S.E., Su, L.D., Bhawan, J. et al. (2001) Nephrogenic fibrosing dermopathy. Am J Dermatopathol, 23, 383\u2013393. \n",
+        "f82a5288-108e-441b-a9b3-8f8772b1f242": "Xanthogranulomatous cholecystitis, a rare form of chronic cho-lecystitis, is named for the yellow-gray material that results from its lipid-laden macrophages in the gallbladder wall. Most patients (usually those in the fifth to sixth decades) have associated gall-stones, and the disease may be secondary to ulceration of the mucosa and extravasation of bile into the gallbladder wall, setting up an inflammatory response. The imaging findings are gener-ally nonspecific and common to chronic cholecystitis in general, with gallstones or sludge and wall thickening, although the wall thickening may be asymmetrical. More characteristic features include hyperechoic nodules and bands within the gallbladder wall (Fig. 8-42), representing the lipid-laden xanthomatous mate-rial. On CT, there is mucosal enhancement and mural thickening, often asymmetrical, and the CT equivalent of lipid-laden mac-rophages within the wall, represented by hypodense intramural nodules (Fig. 8-42). The differentiation from cholangiocarcinoma can be difficult, and usually the diagnosis is made only after cholecystectomy.\n",
+        "5aebadb7-9779-4fe7-b3e6-b9b05ecd2a0b": "Dissection of the extracranial ICA presents commonly with head\u00adache and focal neurologic deficits (ocular or lower cranial nerve palsies)46 and may have numerous causes, including minor trauma, fibromuscular dysplasia, and Marfan\u2019s syndrome. Catheter angiogra\u00adphy is the state-of-the-art method of imaging an ICA dissection, but CT and MRI provide a noninvasive means of disease evaluation. The intramural hematoma demonstrates a CT signal that is hypodense to muscle and a hyperintense T1- and T2-weighted signal. Enhanced CT or fat-suppressed T1-weighted MRI demonstrates peripheral enhance\u00adment of the vasa vasorum.\n",
+        "2097bde4-ba1e-4264-b48d-9d1d4de9c836": "Acute ingestion of alkali or acid will predominantly affect the esoph-agus, but if enough of the toxin is ingested, it can pass into the stom-ach (predominantly the antrum if ingested in the upright position) and lead to marked antral mucosal edema and ulceration (Fig. 2-30). A large ingestion of toxin is associated with a poor prognosis because the stomach (or esophagus) can readily perforate in the acute phase (as evidenced at imaging by peritoneal fluid and pneumoperito-neum). If the patient survives, healing usually occurs with antral stricture formation (Fig. 2-31). The appearance can mimic antral narrowing and linitis plastica, common to several other diseases.\n",
+        "bc34155a-2f21-4203-9bd1-27ec311f9ab5": "['CASE 6.57']: Findings: Contrast-enhanced CT. There is a mass within the lateral segment of the left lobe of the liver. The mass has components that are both hyperattenuating and hypoattenuating. About the mass is a wedge-shaped region of hyperattenuation. There is a nodular filling defect within the left lateral segmental portal vein (arrow).\nDifferential Diagnosis: 1. Hepatocellular carcinoma 2. Metastasis\nDiagnosis: Focal hepatocellular carcinoma\u2014transient hepatic attenuation defect\nDiscussion: Local hepatic perfusion differences allow transient hepatic attenuation defects (THAD) to be seen in the liver. The presence of a THAD should prompt the search for an underlying neoplasm causing compression or obstruction of the supplying portal vein. Because the liver receives the majority of its blood supply from the portal vein, portal venous obstruction results in the recruitment of arterial blood to supply the ischemic region. The additional arterial supply explains the hyperenhancement seen during the early phases of contrast enhancement. In the case shown here, a tumor thrombus is seen to occlude the supplying portal vein. Occlusive tumor thrombus accounts for the THAD, and the presence of angioinvasion suggests that the underlying tumor is hepatocellular carcinoma.\nCase_type: Masses",
+        "0bfddfa2-3e3a-4c63-a19f-dee338f2cb69": "With the growing trend toward nonoperative management of complex hepatic injuries, the frequency of delayed compli-cations has increased up to 10\u201325 %. Thus, follow-up CT is recommended for monitoring of any conservative manage-ment of major hepatic injury to detect and treat delayed com-plications. Most delayed complications can be managed with interventional procedures.",
+        "0bf92947-965f-45e0-9491-ad475c43a027": "ASL is a noninvasive MRI technique that uses arterial blood water as an endogenous tracer to measure perfusion and hence is considered ideal for pediatric perfusion imaging. In addition, the faster blood flow and the shorter perfusion distance in children because of their rela-tively smaller size greatly improves the image quality of the ASL perfusion maps compared to adults.150,151 The important applications of ASL in the pediatric population include distinguishing high-grade brain tumors from low-grade,163 investigating regions of hypo- and hyperperfusion in pediatric ischemic stroke,33,158 sickle cell disease,68 and moyamoya disease.56 The most recent study by Hales et\u202fal.62 shows the potential role of ASL in characterizing cerebral perfusion during normal maturation from late childhood into adulthood as the brain changes structurally and functionally during adolescence. Although most of the applications of ASL are in brain, recent studies show its applications outside of the brain, with kidney (Fig. 6-12) being one of the first and most studied sites.67,134,157 In recent years, ASL has become important for measurement of liver perfusion,73,119 but this application is still in its initial stages.\n",
+        "ea55680a-162b-4ca6-9184-a1883a038c2c": "Malignant tumors of the spleen are uncommon, and primary splenic malignancies are extremely rare. The most common splenic malignancy is probably lymphoma, and it is usually a secondary involvement of systemic lymphoma. Primary splenic angiosarcoma is the second most common primary malignant tumor of the spleen following lymphoma. Spleen is an infrequent site for metastatic disease and usually appear late in the course of disseminated cancer. Radiologic \ufb01 nd-ings are usually nonspeci\ufb01 c, making correct diagnosis harder. Therefore, consideration of clinical \ufb01 ndings and situ-ation is mandatory for differential diagnosis.",
+        "a56a3abc-7554-4c94-9f93-e68bd88e6781": "['CASE 5.131']: Findings: Defecating proctogram. A small amount of rectal intussusception is present during defecation.\nDifferential Diagnosis: Rectal intussusception\nDiagnosis: Rectal intussusception\nDiscussion: Rectal intussusception is concentric invagination of the rectal wall that starts in the upper or mid rectum and progresses toward the anal canal. If the intussusception reaches through the anal sphincter, it results in rectal prolapse (case 5.127). Patients often present with constipation and incomplete defecation. Surgical treatment with perineal rectopexy may be necessary \nin some cases.\nCase_type: Disorders of Defecation",
+        "8ddabd97-1982-4672-bff3-3847caa8dc45": "Text continued on p. 1042Thymomas are typically well-marginated smooth or lobulated mediastinal masses, 5 to 10\u202fcm in diameter, that characteristically arise from one lobe of the thymus. They are usually located anterior to the aortic arch but can occur in the cardiophrenic angle (Fig. 38-46). Most lesions are homogeneous, but necrosis and hemorrhage occur in up to one third.\n",
+        "cfafe624-eabd-4692-a591-65b577e14a18": "['CASE 8.57']: Findings: Contrast-enhanced CT. A 4-cm cystic mass bulges within the tail of the pancreas. The mass is slightly lobulated but appears unilocular without septations.\nDifferential Diagnosis: 1. Mucinous cystic neoplasm 2. Pseudocyst\nDiagnosis: Mucinous cystadenoma\nDiscussion Mucinous tumors isolated from the pancreatic duct usually have a few cysts (<6) that are 2 cm or more in diameter. This mass resembles a pseudocyst. Historical context is important, because patients with a recent episode of pancreatitis probably should have their mass followed, because it most likely represents a pseudocyst. Patients without a history of pancreatitis most likely have a mucinous tumor. Findings of thick septations and mural nodules are worrisome for a mucinous cystadenocarcinoma.\nCase_type: Masses",
+        "59b91597-cc02-4547-b343-0dfc73346980": "Although the great majority of pancreatic neoplasms arise from pancreatic epithelial cells, mesenchymal tumors, while rare, can be derived from non-epithelial cells, including the connective, lymphatic, vascular, and neuronal tissue of the pancreas. Mesenchymal tumors are classi\ufb01 ed according to their histologic origin, including  lipoma, schwannoma, soli-tary \ufb01 brous tumor, perivascular epithelial-cell neoplasm, sarcoma, desmoplastic small-round-cell tumors , and  lymphangioma .",
+        "d87d5032-910d-4f73-b2ba-6330f4ff572e": "21.4.7  Penetrating Pancreatic Trauma Fig. 21.7 Penetrating pancreatic trauma in a 21-year-old female. ( a ,  b ) Contrast-enhanced axial ( a ) and coronal ( b ) CT images show multiple pseudoaneurysms or extravasation ( arrowheads ) at the pancreatic body.",
+        "73e4e56e-ce08-47d6-88e4-8da930bb888f": "study in 40 cases. Dis Esophagus 22(3):279-283, 2009.\n",
+        "6ee48d8a-945e-497b-94cf-5599dd72397a": "['CASE 7.14']: Findings: Sonogram. Longitudinal view of the common bile duct has two echogenic structures (arrows) in a dilated duct which have posterior acoustic shadowing.\nDifferential Diagnosis: Choledocholithiasis\nDiagnosis: Choledocholithiasis\nDiscussion: Because ultrasonography is noninvasive, inexpensive, and readily available, it is usually the test of choice when patients present with biliary-related symptoms. The best sensitivities reported for detection of common bile duct stones by sonography are approximately 75%. A nondilated duct, nonshadowing stones, bowel gas, arterial calcifications, and cholecystectomy clips often make this diagnosis difficult. The markedly dilated duct, posterior shadowing of the stones, and location of the stones in the mid common bile duct make the diagnosis easy in this case. When clinical suspicion of choledocholithiasis is high but no stones are seen with sonography, MRCP or ERCP is often recommended for further evaluation.\nCase_type: Bile Ducts:  Masses and Filling Defects",
+        "317705fe-275b-4a0b-98b3-3f6395987992": "Image display includes all the system components necessary to convert the digital data provided by the reconstruction system to electrical signals used by the display monitor, enabling a graphic display of individual CT numbers representing attenuation values of individual sections of anatomy.8 In addition the display system includes the ability to display patient information, scan protocol, and reconstruction parameters, and it provides the user with many graphic aids to assist in the interpretation of clinical images.\n",
+        "db9fba9f-a69a-475a-9393-d4367509fc68": "20.\t Auger RG, Wiebers DO: Management of unruptured intracranial arteriovenous malformations: A decision analysis. Neurosurgery 21.\t Augustyn G, Scott J, Olson E, et\u202fal: Cerebral venous angiomas: MR 22.\t Awad I, Robinson J, Mohanty S, et\u202fal: Mixed vascular malformations of the brain: Clinical and pathogenetic considerations. Neurosurgery 23.\t Bambakidis NC, Selman WR: Subarachnoid hemorrhage. In Suarez JI, editor: Critical care neurology and neurosurgery, Totowa, NJ, 2004, Humana Press, pp 365\u2013378.\n",
+        "1fecfa63-ea81-436b-bb22-f75adb525476": "Sometimes cystic changes can be difficult to differentiate from emphysema. Lack of visible walls in emphysema may be the only dis-criminating feature. Later, cysts appear that vary in shape, size, and wall thickness. These cystic changes are produced by two mechanisms: one from cavitation of the nodules and the other from dilated bronchiolar structures surrounded by peribronchiolar granulomas. Sometimes cystic changes can be difficult to differentiate from emphysema. Lack of visible walls in emphysema may be the only discriminating feature. In advanced disease the lung may consist almost entirely of fibrous tissue, forming large areas of honeycombing and paracicatricial emphysema, more prominently in the upper lobes.\n",
+        "7fc98e92-6aeb-464d-9477-c9dcd20e983f": "Lymphangiectasia is a benign, usually congenital disease that is caused by dilated peritoneal lymphatics, usually idiopathic in nature but sometimes resulting from the lymphatic obstructive effects of granulomatous disease or malignancies. The lymphatic obstruction can lead to diarrhea, hypoproteinemia, and small bowel mucosal thickening (see Chapter 4). The disease is usually identified at CT as cystic structures (sometimes similar to lymph-angioma) along the route of the mesentery (Fig. 10-42).\n",
+        "b33b767d-7e10-4480-998d-ca49493bc6d9": "Plain radiography may demonstrate an ileus, sometimes con-fined to the left colon. As the disease progresses, bowel wall thick-ening develops (Fig. 5-34) with a toxic megacolon if severe (Fig. 5-35). BE is now rarely performed, but results demonstrate thick-ened folds and ulceration, either linear or with mucosal sloughing. Healing can lead to stricture formation (Fig. 5-36). The findings are now usually made by CT and are similar to other forms of coli-tis (inflammatory bowel disease, infectious colitides, and radiation colitis if the radiation field included the colon). The disease is suggested in the appropriate clinical setting and by the left-sided distribution of the colonic changes (Fig. 5-37). Severely affected patients show colonic pneumatosis as the gas permeates the damaged mucosa, which can then enter the mesenteric venous system and be recognized as mesenteric venous gas (particularly at CT) and ultimately intrahepatic portal venous gas. Occasion-ally, ischemia occurs proximal to an obstructing colonic stricture, such as colonic adenocarcinoma. The obstruction causes marked distention of the proximal colon, compromising its vascular sup-ply or directly invading mesenteric vasculature (Fig. 5-38).\n",
+        "53ae26f8-eead-4889-8618-3371f1e751e9": "The mylohyoid muscle, the major landmark separating the oral cavity from the suprahyoid neck, is readily identified on both coronal and axial images. On axial images (Fig. 24-5A and B), the muscle appears in cross section as two separate muscle bundles medial to the mandible. As axial images are obtained from superior to inferior, the distance between the separate bundles decreases. The superior aspect of the submandibular gland is identified on axial images at the poste\u00adrior margin of the mylohyoid muscle. On coronal images, the muscle has the configuration of a hammock suspended from the medial (lingual) surface of the mandible (see Fig. 24-5C and D). Immediately inferior to the mylohyoid muscle, the anterior bellies of the digastric muscle can be identified (Fig. 24-6). Depending on the degree of angu\u00adlation used on axial imaging, varying amounts of mylohyoid muscle can be seen projecting between the anterior bellies of the digastric muscle. The posterior belly of the digastric muscle can usually be identified medial and posterior to the parotid gland, separating the gland from the contents of the carotid sheath.\n",
+        "c7e7d8e5-c242-40e9-b974-c57eb43b8bc9": "Spiral and multislice spiral CT effects on contrast resolution and image noise.\u2002 The same variables that affect image noise and contrast resolution for conventional CT\u2014slice thickness, kilovoltage, milliamperage, patient size, voxel size, and convolution filter\u2014affect spiral and multislice spiral CT, with the added variables of table speed (pitch) and the spiral interpolation algorithm. For a given pitch, using more scan data to reconstruct an image (with linear interpolation) reduces noise and enhances contrast resolution at the expense of z-axis Temporal resolution refers to the ability of a CT scanner to capture objects that change shape or position over time and depends primarily on the gantry rotation speed and the reconstruction method used. For conventional CT using a full 360 degrees of scan data, temporal resolu-tion is equivalent to scan time per rotation. A 1-second scan has a 1-second temporal resolution. For spiral or multislice spiral CT, tem-poral resolution depends on the gantry rotation speed and the spiral interpolating algorithm used during reconstruction.\n",
+        "dc0b1d6e-3236-41c9-b4a1-62cb50d8924c": "CT colonography. AJR 187(1):170-173, 2006.\n",
+        "e65e894c-ed79-42b9-8d16-de2cb1051ff9": "esophageal perforations. Ann Thorac Surg 88(1):194-198, 2009.\n",
+        "92e084c2-d950-4767-9ae7-f704321678f7": "Neuroimaging findings in HIV patients may be completely normal. In patients with findings of HIV encephalitis, early MRI findings include symmetric multifocal T2-hyperintense lesions in the periventricular white matter and centrum semiovale, which \u2003generally spare the subcortical U fibers.6 Chronic HIV infection results in progression of these changes, with the initially patchy T2-hyperintense lesions becoming more confluent and extensive, sometimes extending to involve the basal ganglia, cortex, cerebellum, brainstem, and spine. The white matter lesions are typically slightly hypointense on T1 images and usually do not enhance. Another prominent feature of chronic HIV infection is progressive cerebral atrophy41 (Fig. 19-12).\n",
+        "749d6ea8-e280-47ef-b7e6-6a7a51751a6d": "An extreme example of the unique challenges of CT scanning in an emergency setting is that of a patient arriving in the ED unconscious and unable to move, without any identification and in need of an imme-diate CT scan. One such situation is a patient transported to the hospital in an ambulance following a traumatic car crash. In these cases the patient may be brought directly to a CT scanner to determine the extent of the injuries. A typical trauma CT protocol will cover the patient\u2019s head, neck, chest, and abdomen. In a non-emergency setting the patient would be instructed to drink bowel-opacifying contrast or water in advance of the abdominal exam, which is not possible in the emergent setting. If there is any question of a possible neck or spine injury, the patient will be immobilized, requiring that the chest and abdomen be scanned with the arms down instead of in the preferred position above the head. Furthermore, for true emergencies the operator may be required to scan the patient as a Jane or John Doe if no identifying information is available, and the order for the exam may be given ver-bally by a physician accompanying the patient to the scan room.\n"
+    },
+    "relevant_docs": {
+        "8f647e10-13c5-4fa7-b09b-ccb6301fed1d": [
+            "c08e9089-97d1-4976-91ea-113937914961"
+        ],
+        "b1dbd852-a1e0-4716-912b-b6250e01728f": [
+            "c08e9089-97d1-4976-91ea-113937914961"
+        ],
+        "4c51dda9-68d0-4be6-9a01-6627f134bcd5": [
+            "c2953132-6ca9-4026-aa8e-50ea6aace18b"
+        ],
+        "6ddcd511-6cd4-477b-af58-bfb754029752": [
+            "c2953132-6ca9-4026-aa8e-50ea6aace18b"
+        ],
+        "0b0fd0b7-b14a-4cbc-8ef2-cd925f3408ef": [
+            "aeb37460-eba7-4043-8565-682997e68b37"
+        ],
+        "0f636ae3-9bd3-4fb7-8bfe-36028145a6f9": [
+            "aeb37460-eba7-4043-8565-682997e68b37"
+        ],
+        "5dc1685a-b669-47dd-8f42-17d53fa0fdc1": [
+            "faebee08-3c24-41c0-9d59-792def5111c8"
+        ],
+        "cb41bbce-ceed-49c1-aa27-0e564fb42ff1": [
+            "faebee08-3c24-41c0-9d59-792def5111c8"
+        ],
+        "838ebae7-d851-4a03-9019-b16f54b0c58c": [
+            "f0d934f1-7c0a-4239-911c-bdc88413fc5d"
+        ],
+        "7fa31ef9-953b-4fd5-8131-ad1ffc12e337": [
+            "f0d934f1-7c0a-4239-911c-bdc88413fc5d"
+        ],
+        "28f3308c-f0ba-48f2-b540-204411579046": [
+            "2759bdc3-265c-4cd2-a63b-9d7d81356610"
+        ],
+        "b12a8f7f-9893-4524-8c3a-b0788a3ab868": [
+            "2759bdc3-265c-4cd2-a63b-9d7d81356610"
+        ],
+        "40147734-8a79-48de-902f-cb80021f70b6": [
+            "1e3f4bd6-de88-44d7-849d-047ace472133"
+        ],
+        "84f8659c-8882-4399-9b8b-f24a71822b70": [
+            "1e3f4bd6-de88-44d7-849d-047ace472133"
+        ],
+        "a9ec95de-ac09-485f-8c67-997bf57ff351": [
+            "ded17b12-6949-4b39-bc22-85d1bab69112"
+        ],
+        "7c812351-ca35-426d-b451-2f91ea907d89": [
+            "ded17b12-6949-4b39-bc22-85d1bab69112"
+        ],
+        "5ecc764a-c8b9-4b99-87fa-3dc8a476ccf8": [
+            "3fb61adf-1d7a-4f3c-9ef8-13586ad2e381"
+        ],
+        "55247c20-07c1-4657-a4a0-fdccdea0b3b1": [
+            "3fb61adf-1d7a-4f3c-9ef8-13586ad2e381"
+        ],
+        "06097fd9-1513-4949-a04b-cf5b4ff6acc7": [
+            "6ff85614-c816-45d2-a518-67feddc6ea92"
+        ],
+        "6d7e2417-a4a7-4e14-ab81-015be3649b64": [
+            "6ff85614-c816-45d2-a518-67feddc6ea92"
+        ],
+        "8c18c0ee-8778-432c-8a7d-3299f66b90bf": [
+            "12a3f8c0-115f-4509-9731-aee172764641"
+        ],
+        "c49b6664-a67f-4684-b2d7-4bb3c5e630eb": [
+            "12a3f8c0-115f-4509-9731-aee172764641"
+        ],
+        "f145e183-bd33-4d44-86a1-a35b5899e61a": [
+            "aeff820d-fe2b-4904-8537-a7dda1dd1d43"
+        ],
+        "ed7db839-6fc1-45e7-9b1c-bdedac2a1c69": [
+            "aeff820d-fe2b-4904-8537-a7dda1dd1d43"
+        ],
+        "b8d39dfc-e07f-4a70-a17b-308fdceb3cb0": [
+            "249ac875-1f36-4d2e-af2f-b7b920fb2077"
+        ],
+        "c4fbce95-c4e6-40bd-ad6c-37e424cf16a1": [
+            "249ac875-1f36-4d2e-af2f-b7b920fb2077"
+        ],
+        "678634aa-7145-4e8a-8860-4d087ed87308": [
+            "7237e2bb-3663-4973-b591-35689bc2cb10"
+        ],
+        "5997941a-aa9a-4a0c-a3c5-14e2bf83140f": [
+            "7237e2bb-3663-4973-b591-35689bc2cb10"
+        ],
+        "1effe4ce-7e02-4b7a-bcf1-3d5b2b2bf416": [
+            "31bc3cc0-a121-4b77-ad44-fdd216665341"
+        ],
+        "8e6fac67-f2d4-4a86-85a1-edfc3c66b9b7": [
+            "31bc3cc0-a121-4b77-ad44-fdd216665341"
+        ],
+        "447ca0ec-bc8f-428a-ba4a-57f536f5f2dc": [
+            "46ff3104-ed10-4574-8fbd-c2df9c5c8949"
+        ],
+        "c9a0da03-7762-494e-9268-de4e87935900": [
+            "46ff3104-ed10-4574-8fbd-c2df9c5c8949"
+        ],
+        "237dfcd2-97ef-450c-945f-f60b9d09e112": [
+            "b97ddc7e-ab8c-4a7f-bc9c-cf1a5cbf6a73"
+        ],
+        "e14d0777-d686-4b24-8cfa-5455c1232685": [
+            "b97ddc7e-ab8c-4a7f-bc9c-cf1a5cbf6a73"
+        ],
+        "4b565f4d-0f85-4847-80ed-4f44461f90df": [
+            "b1363ef8-40ac-4ddb-9de5-69c28a35a3da"
+        ],
+        "93014a13-17bc-403a-833d-4e365575149b": [
+            "b1363ef8-40ac-4ddb-9de5-69c28a35a3da"
+        ],
+        "60fe910d-a036-4476-a289-d8b65dd7d44f": [
+            "9a30fffa-a9f9-4934-83ae-7cfc629b183f"
+        ],
+        "55c9c277-fd34-426b-9b14-6c3899b21b22": [
+            "9a30fffa-a9f9-4934-83ae-7cfc629b183f"
+        ],
+        "1c9672ae-1976-48f1-b6ec-cadfe2155a30": [
+            "20bb47f5-4754-4811-947d-7941fb60c6a3"
+        ],
+        "54f3a5e9-57ab-42f3-8a0d-1a9c373cfada": [
+            "20bb47f5-4754-4811-947d-7941fb60c6a3"
+        ],
+        "8a9c616b-22f1-4cc5-9fd1-b03efdac1c56": [
+            "bd2d9c76-fbef-49dd-8c87-d40971b72c3c"
+        ],
+        "02267f4e-4b7f-48e5-9361-92618c60a87e": [
+            "bd2d9c76-fbef-49dd-8c87-d40971b72c3c"
+        ],
+        "31ad5461-d235-4d68-a75b-3393a42b2913": [
+            "8ae62981-e80e-4e76-b2ec-382414ff35b7"
+        ],
+        "27c18287-10d1-44fe-95c1-3a4297e2d42e": [
+            "8ae62981-e80e-4e76-b2ec-382414ff35b7"
+        ],
+        "326f46eb-205d-471c-a2fb-e6e5aaaecb7b": [
+            "d4d1b9ed-fd00-4bca-8c5e-5eb0d3a3d2c8"
+        ],
+        "195cab9e-5fac-4cf7-b312-64e061f30d77": [
+            "d4d1b9ed-fd00-4bca-8c5e-5eb0d3a3d2c8"
+        ],
+        "c9e629e7-8328-4d17-908e-ccf41eedecab": [
+            "14f3af50-e56a-45b2-8389-c17dff5db335"
+        ],
+        "f848df26-52f1-49fc-9761-02dbe7e4df60": [
+            "14f3af50-e56a-45b2-8389-c17dff5db335"
+        ],
+        "b80ab1f8-930a-419f-846b-5ba362f8d51f": [
+            "eb860727-e2ce-42c1-981d-ada99b18d4d8"
+        ],
+        "91a8a587-019a-4382-a295-e03d69712a6b": [
+            "eb860727-e2ce-42c1-981d-ada99b18d4d8"
+        ],
+        "8e5c6cd7-48a9-46f0-845b-2630f5983bd5": [
+            "20d70d71-8837-4d91-a950-7d657dce5848"
+        ],
+        "9573504c-7f7c-494b-a9bc-a0fae9152f43": [
+            "20d70d71-8837-4d91-a950-7d657dce5848"
+        ],
+        "63beff9a-709d-4c8f-afc4-9370f0474b46": [
+            "02a19355-e8b7-4119-b464-da109b40e37c"
+        ],
+        "037fa8d4-85e5-4fbf-90df-3d2060f0c8c7": [
+            "02a19355-e8b7-4119-b464-da109b40e37c"
+        ],
+        "2e9f2930-35bd-4918-bcda-9a6e75e853ff": [
+            "d09d6581-7b5f-4cf1-a296-20b5e57832f7"
+        ],
+        "bdc0512c-4eea-4ffb-ae62-b9e54aa17671": [
+            "d09d6581-7b5f-4cf1-a296-20b5e57832f7"
+        ],
+        "ffae8e86-88cd-4cd4-b6e2-ad7e95415f6c": [
+            "4d8f821e-16a0-49f3-a902-675fc62c0660"
+        ],
+        "f2148f2b-5e20-4414-9065-a7c636877f98": [
+            "4d8f821e-16a0-49f3-a902-675fc62c0660"
+        ],
+        "b0a38d76-6401-412c-95a4-94d8ce3d8513": [
+            "86ac854b-be0c-44ad-9dad-167bf3c36daf"
+        ],
+        "b05e48d6-8177-4eba-82e4-c911874a6dce": [
+            "86ac854b-be0c-44ad-9dad-167bf3c36daf"
+        ],
+        "0a8f9c35-bd6f-4464-9a8a-80f9449275df": [
+            "4d4ac9d4-2805-469b-9f07-7421e6d604b6"
+        ],
+        "bf737982-dbfd-4cf9-9992-66e0fe67aae6": [
+            "4d4ac9d4-2805-469b-9f07-7421e6d604b6"
+        ],
+        "dc002a8a-1383-4b82-8b84-f01ffd45dcb6": [
+            "21325efc-0903-4181-9d12-1a0c3be9d3b0"
+        ],
+        "a32b1695-4fe9-4be4-8b01-dd0533c1313e": [
+            "21325efc-0903-4181-9d12-1a0c3be9d3b0"
+        ],
+        "6a0cf94f-2313-4ed8-975d-0b19b017fc95": [
+            "eeb33d83-3dca-41bf-a47f-36651428d39f"
+        ],
+        "329fbd4e-e125-4828-958e-d90f9403162f": [
+            "eeb33d83-3dca-41bf-a47f-36651428d39f"
+        ],
+        "9a0239c9-d367-4233-a50c-ee3ab62277e8": [
+            "fa02fe81-653f-4955-ab6f-aabee6a16a79"
+        ],
+        "f6a3ef9d-b834-4143-adc7-bbf21516458c": [
+            "fa02fe81-653f-4955-ab6f-aabee6a16a79"
+        ],
+        "e1b89179-f569-4859-ae42-379cb66587ec": [
+            "eb645ef2-82f4-43ed-9861-a007d42a0dc6"
+        ],
+        "4a393426-e4fc-40b1-94a8-ca91ceab0327": [
+            "eb645ef2-82f4-43ed-9861-a007d42a0dc6"
+        ],
+        "69fc6054-a39f-45b6-ba2f-fad471cfcaa4": [
+            "c6a5c3a9-56f4-43b1-a2de-58241bc84f37"
+        ],
+        "6ee22703-dd3a-4333-9572-87df37e6f02b": [
+            "c6a5c3a9-56f4-43b1-a2de-58241bc84f37"
+        ],
+        "2eaaff76-0192-469c-b2fa-ddff5d13726a": [
+            "4035a98e-ed52-4d49-b65a-5488d85be82a"
+        ],
+        "f6849579-c64f-4aa8-ab0d-853169db85dc": [
+            "4035a98e-ed52-4d49-b65a-5488d85be82a"
+        ],
+        "1f32284d-2eec-4adb-ab3c-7cbdd262381e": [
+            "e734d638-38c4-432d-90c8-7200893883ca"
+        ],
+        "9f6f60f4-8fbb-4e60-a236-fb698bab7852": [
+            "e734d638-38c4-432d-90c8-7200893883ca"
+        ],
+        "0736c10b-a49f-4d91-b35c-4a030baf564a": [
+            "d285b297-dea7-41e4-8d1e-8297f8c4fc27"
+        ],
+        "ee098d44-871f-41e5-9cd5-19758cab586e": [
+            "d285b297-dea7-41e4-8d1e-8297f8c4fc27"
+        ],
+        "9233cb82-ea0f-44c6-8238-55332f2635b1": [
+            "89b39657-8565-4e33-962f-0ae8e1ea5bfc"
+        ],
+        "38dd624d-3710-43c6-bcf9-b2d3a4d7b4e8": [
+            "89b39657-8565-4e33-962f-0ae8e1ea5bfc"
+        ],
+        "ab8b87b0-2b68-4b0a-8acd-faf30797e76e": [
+            "2b504ae1-d1ca-4751-8d43-d4683eea8f19"
+        ],
+        "503e447a-f2ed-4efb-8972-ff034a316c03": [
+            "2b504ae1-d1ca-4751-8d43-d4683eea8f19"
+        ],
+        "0e1f270a-9844-4855-8375-9f0a1d96fed9": [
+            "893c9798-c154-4083-86da-14396d9df98b"
+        ],
+        "dd0b30ee-3e6e-4916-a793-9e8d0f4526ed": [
+            "893c9798-c154-4083-86da-14396d9df98b"
+        ],
+        "4c7eb2ed-c0ea-4dfe-8ace-abfaacb81565": [
+            "c6ce3930-895d-43f1-8ac7-89e908d32e11"
+        ],
+        "99942527-c504-47d9-80f9-61878216ef3d": [
+            "c6ce3930-895d-43f1-8ac7-89e908d32e11"
+        ],
+        "8a4917cf-a1bf-4e3e-bf02-251e8dec8703": [
+            "6f994945-99b3-40e1-801c-00868f13a030"
+        ],
+        "b1b33a7b-ca70-4985-934e-2a177be8bdaf": [
+            "6f994945-99b3-40e1-801c-00868f13a030"
+        ],
+        "99272fa8-e6ad-42e6-ac7a-071a4ee8fc90": [
+            "ebc162ea-a221-4d82-99f9-692d851dc864"
+        ],
+        "33e0e664-e789-44d4-9d3f-9d4f66a21c52": [
+            "ebc162ea-a221-4d82-99f9-692d851dc864"
+        ],
+        "87edf23d-2e0d-46e3-8f61-7ad6bbebec72": [
+            "7cab0bfb-bb19-46a4-be53-be77c4524df8"
+        ],
+        "fd0c0ce6-545e-4764-b55b-81c4ab0986ea": [
+            "7cab0bfb-bb19-46a4-be53-be77c4524df8"
+        ],
+        "4b04621a-a826-46e1-8c28-fce83048e946": [
+            "cd74b533-f994-43a0-b423-d3730e437c62"
+        ],
+        "32d38d48-1bcb-4ec9-a292-867d05cbc776": [
+            "cd74b533-f994-43a0-b423-d3730e437c62"
+        ],
+        "03f6e06d-3f54-476c-9fee-4d84a9bed5b7": [
+            "7b5b09fe-a087-4f35-9147-5bbb45ec0b49"
+        ],
+        "3f733d73-3847-4577-a71a-e45079ea4c3b": [
+            "7b5b09fe-a087-4f35-9147-5bbb45ec0b49"
+        ],
+        "8b810907-da81-4b11-a89e-b6c242938028": [
+            "0446afbf-1a5e-4f03-bcd5-208f0f6b3b60"
+        ],
+        "d9c53486-7690-47f8-8759-5b6842cf05a5": [
+            "0446afbf-1a5e-4f03-bcd5-208f0f6b3b60"
+        ],
+        "a6ee429c-2b57-4789-b765-f31a7fadf5eb": [
+            "fee53de5-e600-4f71-9a1e-326523bb0556"
+        ],
+        "de7e12e8-ab9a-4946-ba73-41b7a04c260c": [
+            "fee53de5-e600-4f71-9a1e-326523bb0556"
+        ],
+        "ad49f1ec-c276-4664-b084-ea8f0a0f6597": [
+            "2c2de7aa-840b-44e4-8db0-4367ba9301f3"
+        ],
+        "4eea19bd-5297-4354-af22-a259bfa5582d": [
+            "2c2de7aa-840b-44e4-8db0-4367ba9301f3"
+        ],
+        "cad311a4-ec8b-4498-b766-a48bac907adc": [
+            "0e73c961-e5ee-425b-adcd-76f555480992"
+        ],
+        "c51f8d2a-24ef-4718-88ec-b80817d314a9": [
+            "0e73c961-e5ee-425b-adcd-76f555480992"
+        ],
+        "792797d1-d17e-4e72-94cf-e7aeb02d72c5": [
+            "56f35c0a-8f06-4c4c-aaed-22cd38def52f"
+        ],
+        "d58003d8-8eb7-4ba4-8e53-8d37b89de801": [
+            "56f35c0a-8f06-4c4c-aaed-22cd38def52f"
+        ],
+        "8afeb5fa-f48b-48e4-8f6d-c67fb10c303a": [
+            "cf59d45a-51c7-4841-8b57-2c21a63a73f5"
+        ],
+        "deddabd8-f71a-47e1-8e57-eae91133693d": [
+            "cf59d45a-51c7-4841-8b57-2c21a63a73f5"
+        ],
+        "8b710dd4-65d5-402a-a678-e2fce4bf7cd3": [
+            "494d735e-d4db-4366-a549-c9c3619f4e87"
+        ],
+        "72f9541e-143b-443d-b79c-09fceb536aed": [
+            "494d735e-d4db-4366-a549-c9c3619f4e87"
+        ],
+        "579d751c-6c0a-4ff1-96de-bfd788572c45": [
+            "f1fc79a4-c683-47f9-889f-70f1836c52ea"
+        ],
+        "3169da4f-d834-48f7-bfa8-5e0e3addd8b2": [
+            "f1fc79a4-c683-47f9-889f-70f1836c52ea"
+        ],
+        "0de0e3ba-875e-4f4c-97aa-81c482cfe95a": [
+            "7cc47f2b-66ec-4733-910a-71407dd1be64"
+        ],
+        "66aae6d9-8bd3-4da6-8a31-ae456682f26c": [
+            "7cc47f2b-66ec-4733-910a-71407dd1be64"
+        ],
+        "20482736-65df-43fb-bfe7-145326fbb2e8": [
+            "087e897a-af33-4688-b380-0a1fb7dd25d3"
+        ],
+        "ca6ecaa1-e329-4333-969a-b56c71ef949a": [
+            "087e897a-af33-4688-b380-0a1fb7dd25d3"
+        ],
+        "09b3c00b-d774-4190-85e4-e4fb35de6990": [
+            "c131ba62-e431-409e-b7b2-f92bd32f561c"
+        ],
+        "1fe225f9-a3eb-4553-9112-cd95851c6006": [
+            "c131ba62-e431-409e-b7b2-f92bd32f561c"
+        ],
+        "c3b23de9-ed83-4e49-bfcc-a7d29d020deb": [
+            "18c359d0-1640-4d02-80b4-d69266c94514"
+        ],
+        "9cbeaa28-f87e-49d3-b528-cd9f5e3c5e6e": [
+            "18c359d0-1640-4d02-80b4-d69266c94514"
+        ],
+        "43edf2bc-248d-4a60-86f3-8d18d4ed40a1": [
+            "1cc1750d-87da-4422-8996-f15b1ec7a496"
+        ],
+        "8dcfb67d-1f9f-4fcc-9944-822ab1a76116": [
+            "1cc1750d-87da-4422-8996-f15b1ec7a496"
+        ],
+        "8236a7a2-a57c-48b4-8556-c265b36785b2": [
+            "1f441647-0c90-4569-b023-f699da789293"
+        ],
+        "f172d81d-720f-48dd-887b-9dc57c770b44": [
+            "1f441647-0c90-4569-b023-f699da789293"
+        ],
+        "80305751-dd1e-4e0b-ba7d-fd1df473f466": [
+            "87c743cf-a1eb-4046-89e9-c28a07908911"
+        ],
+        "e0a1ea65-29d6-49f1-a5d0-0eda7e791204": [
+            "87c743cf-a1eb-4046-89e9-c28a07908911"
+        ],
+        "81e900c4-3f7e-4ff2-b95c-a9e41ca8c116": [
+            "653e323c-80cc-4c54-b9c5-b795d4b91e0e"
+        ],
+        "4536d939-6537-4faf-aa60-7fd2f5c23a84": [
+            "653e323c-80cc-4c54-b9c5-b795d4b91e0e"
+        ],
+        "98f78a91-0c04-453b-bbce-3b62b2ad3b84": [
+            "3bc76703-c347-4a3b-ba48-d0a1379aaf43"
+        ],
+        "4c703886-c14f-450b-9c2c-e220dcc2d05b": [
+            "3bc76703-c347-4a3b-ba48-d0a1379aaf43"
+        ],
+        "995fed0d-f64f-44b8-b3d5-a3cdfc60794a": [
+            "36b40980-55e9-414f-8b2a-a396325e785a"
+        ],
+        "524d9be6-04df-4803-992a-92cf2f46c866": [
+            "36b40980-55e9-414f-8b2a-a396325e785a"
+        ],
+        "f0cfff38-b43d-4bd1-a472-6444809331c8": [
+            "976c0919-dd54-493e-88b0-272160834234"
+        ],
+        "d63a11f1-d47c-4e0c-98d1-e3d4fc0b7e7f": [
+            "976c0919-dd54-493e-88b0-272160834234"
+        ],
+        "fea3ebf0-1b8f-4be3-a33c-975816dad41e": [
+            "43d298ec-50aa-40e0-bece-0061ee548dba"
+        ],
+        "59602528-8b37-408a-9f50-56f99d6b9ba9": [
+            "43d298ec-50aa-40e0-bece-0061ee548dba"
+        ],
+        "f3042ad7-aca2-436c-97c1-01a4fdbbbd98": [
+            "6f8f5023-4ef8-439a-b940-cf72bf778ace"
+        ],
+        "4bdd7606-9cf8-4b71-8024-616d42d545bb": [
+            "6f8f5023-4ef8-439a-b940-cf72bf778ace"
+        ],
+        "8920ceb4-731a-4220-a264-e345b1791b12": [
+            "0ab124b3-f98f-4a25-ac99-5b79711c44c5"
+        ],
+        "e347465a-6bb5-409b-9803-c519bf35c276": [
+            "0ab124b3-f98f-4a25-ac99-5b79711c44c5"
+        ],
+        "fb223c5b-fd24-47e0-a8d7-f43d63a8abb9": [
+            "79aa4235-f15d-4b13-bf66-ef63b0d4389b"
+        ],
+        "93a16822-9120-4d74-a1a8-9f8586145194": [
+            "79aa4235-f15d-4b13-bf66-ef63b0d4389b"
+        ],
+        "5ef73f32-bc24-462f-aef6-18467f4d0915": [
+            "50d5f29a-9dcd-42ea-83c3-dd28f21d4d59"
+        ],
+        "cfd420f9-eb14-4f11-b637-ee228e68f283": [
+            "50d5f29a-9dcd-42ea-83c3-dd28f21d4d59"
+        ],
+        "82ed57e8-200e-406c-8f7d-5a478d7d960d": [
+            "18657854-e65d-4f59-b10e-5f25f4a34177"
+        ],
+        "9c0286c5-839c-449f-b34e-fe17a44393b7": [
+            "18657854-e65d-4f59-b10e-5f25f4a34177"
+        ],
+        "b41ad9c8-c6a7-444e-b019-8ff710656412": [
+            "286fc540-2799-4f4d-b868-f4cc3da01146"
+        ],
+        "80a6bce6-e7cf-499e-980f-13419a57e512": [
+            "286fc540-2799-4f4d-b868-f4cc3da01146"
+        ],
+        "d57bf7f1-7d0f-49d6-b7dd-db32c47bb8e1": [
+            "e5061aae-f604-42ac-b07e-2a841aa28c0e"
+        ],
+        "c738a43f-12cf-46b9-97e3-6d672168521e": [
+            "e5061aae-f604-42ac-b07e-2a841aa28c0e"
+        ],
+        "018bc25d-9491-4240-88d9-9c443671aa93": [
+            "7422affa-2896-40c6-819c-0a3954ef6b53"
+        ],
+        "2d79664f-b9e0-440d-91fc-6e5aa4ab0fda": [
+            "7422affa-2896-40c6-819c-0a3954ef6b53"
+        ],
+        "a19a8f32-afcb-4023-81ee-cf517fc62ff1": [
+            "226b594b-abf7-4547-8d7f-413e36b8daed"
+        ],
+        "63cf64d2-1057-42c6-8230-5749d0056f45": [
+            "226b594b-abf7-4547-8d7f-413e36b8daed"
+        ],
+        "ec265bf8-9b38-4a02-a8b2-5890b2a3a0a2": [
+            "c9f40f38-de41-4a9d-a738-98e6ed5cf910"
+        ],
+        "efda8566-c7ca-4b7c-ac7e-575962fda1e4": [
+            "c9f40f38-de41-4a9d-a738-98e6ed5cf910"
+        ],
+        "b55bfa5b-b9f5-41cb-97f4-d3cb0a31688f": [
+            "ed2e90af-adba-43a6-87bc-a6cfcfde7e01"
+        ],
+        "afb2b050-f294-4d89-808b-945592c8a199": [
+            "ed2e90af-adba-43a6-87bc-a6cfcfde7e01"
+        ],
+        "c479f536-deac-4282-898e-1f8cc3549ed1": [
+            "83edbb3d-297c-478d-b992-3e35457b5c0f"
+        ],
+        "25a8150d-22ee-4dc2-b79c-5fe7b3c0dadd": [
+            "83edbb3d-297c-478d-b992-3e35457b5c0f"
+        ],
+        "20a04787-3c35-4bd7-b316-785d52cba4f6": [
+            "965a66ff-ccad-4e80-a1d9-edd4ca6d5f34"
+        ],
+        "acad83b6-3c6a-4444-b60a-faedd8b6e088": [
+            "965a66ff-ccad-4e80-a1d9-edd4ca6d5f34"
+        ],
+        "7e5986a4-8a7e-4967-a542-12b72247f722": [
+            "4bcc36de-562f-4da3-9529-09c0cbca9500"
+        ],
+        "0afdd855-5240-48f0-802f-6b6b10a79502": [
+            "4bcc36de-562f-4da3-9529-09c0cbca9500"
+        ],
+        "cdd220ae-6627-472b-9ed6-0918dfbe43f3": [
+            "7fa1e6db-88a3-4810-a73b-055e9d4282ca"
+        ],
+        "45fc03e0-23b3-4da3-b204-62368d5e645b": [
+            "7fa1e6db-88a3-4810-a73b-055e9d4282ca"
+        ],
+        "8e6bbfe4-ccd3-436e-bf68-03a274d286c4": [
+            "9f5040f8-0ac6-435f-be79-11c8f4e4027f"
+        ],
+        "78e40183-a3bd-4714-bd56-f867462829e6": [
+            "9f5040f8-0ac6-435f-be79-11c8f4e4027f"
+        ],
+        "12ec3dad-a4e8-4dc3-929a-bb589c1504d2": [
+            "d4e46732-a47e-40cb-a9c7-8990ee72a45d"
+        ],
+        "5cbd2a3e-b767-445a-b8eb-9572e484713a": [
+            "d4e46732-a47e-40cb-a9c7-8990ee72a45d"
+        ],
+        "855a5b1c-db99-4277-94c3-c4ce7b1f67ed": [
+            "1fec8f9c-1c83-47ea-9e06-748309dd0690"
+        ],
+        "639ca25e-b010-494d-88ec-9602f6a1142e": [
+            "1fec8f9c-1c83-47ea-9e06-748309dd0690"
+        ],
+        "b60b8a68-4b69-4e9a-853d-255cf3f83760": [
+            "d71a0b22-4d40-422e-b83c-2b9508ca7b75"
+        ],
+        "401a3145-480d-42f3-8b16-b7a06308d961": [
+            "d71a0b22-4d40-422e-b83c-2b9508ca7b75"
+        ],
+        "28f53b09-c45a-4831-bcd6-074786a9d072": [
+            "04a0fd36-8274-4d12-b5fd-2c087c764c36"
+        ],
+        "99b3bc74-ec84-457b-97b3-c770a171db15": [
+            "04a0fd36-8274-4d12-b5fd-2c087c764c36"
+        ],
+        "7da585cb-131b-4294-9501-0cf55b826b9d": [
+            "e75aa83c-0fa1-4f05-9550-f1ea04a86365"
+        ],
+        "42926caf-9057-425f-8b29-a723780e7329": [
+            "e75aa83c-0fa1-4f05-9550-f1ea04a86365"
+        ],
+        "a11bc9a1-5d5d-4e46-ab61-3ed2121f67ab": [
+            "f82a5288-108e-441b-a9b3-8f8772b1f242"
+        ],
+        "81de1538-4520-48d1-a245-26fcc2b93a48": [
+            "f82a5288-108e-441b-a9b3-8f8772b1f242"
+        ],
+        "6291a10c-5449-4b82-b6cb-5f90eb2e104d": [
+            "5aebadb7-9779-4fe7-b3e6-b9b05ecd2a0b"
+        ],
+        "9b0da799-d8d0-416c-99dc-473b73cc9330": [
+            "5aebadb7-9779-4fe7-b3e6-b9b05ecd2a0b"
+        ],
+        "4b2d96b4-1517-4951-9ce1-4a7a41a16832": [
+            "2097bde4-ba1e-4264-b48d-9d1d4de9c836"
+        ],
+        "308ea19b-367b-4111-9d31-9da1236ba0e2": [
+            "2097bde4-ba1e-4264-b48d-9d1d4de9c836"
+        ],
+        "94b21be0-b41e-457b-828c-087fb0226e40": [
+            "bc34155a-2f21-4203-9bd1-27ec311f9ab5"
+        ],
+        "cc7eb57e-391c-4cfe-8f2d-ea1beb560550": [
+            "bc34155a-2f21-4203-9bd1-27ec311f9ab5"
+        ],
+        "e74657c6-1f10-4f20-9aad-7daca16e6167": [
+            "0bfddfa2-3e3a-4c63-a19f-dee338f2cb69"
+        ],
+        "96851216-dc0c-4022-99a5-08518bd907c0": [
+            "0bfddfa2-3e3a-4c63-a19f-dee338f2cb69"
+        ],
+        "c6e60e39-123b-4ee9-8ed4-c95b51330d92": [
+            "0bf92947-965f-45e0-9491-ad475c43a027"
+        ],
+        "6ec5d1dd-fcf6-44a6-bd94-ee938df9424e": [
+            "0bf92947-965f-45e0-9491-ad475c43a027"
+        ],
+        "67288626-7aaa-4952-b07c-1114c4631b7a": [
+            "ea55680a-162b-4ca6-9184-a1883a038c2c"
+        ],
+        "41d868fa-86cf-478c-9c49-887742353fd6": [
+            "ea55680a-162b-4ca6-9184-a1883a038c2c"
+        ],
+        "dd42974d-62ac-4697-945f-139b13646a52": [
+            "a56a3abc-7554-4c94-9f93-e68bd88e6781"
+        ],
+        "cd606494-2a25-416e-938b-59fa63b035e5": [
+            "a56a3abc-7554-4c94-9f93-e68bd88e6781"
+        ],
+        "700c21a2-2a6a-4f2c-afc3-1ffb2c395446": [
+            "8ddabd97-1982-4672-bff3-3847caa8dc45"
+        ],
+        "27ce983a-5b6b-4846-9c04-21ab43e7f34c": [
+            "8ddabd97-1982-4672-bff3-3847caa8dc45"
+        ],
+        "37192842-5ed4-451a-a3b7-f0954298fe43": [
+            "cfafe624-eabd-4692-a591-65b577e14a18"
+        ],
+        "50b715d9-ce72-4069-97bf-d0f8ec999555": [
+            "cfafe624-eabd-4692-a591-65b577e14a18"
+        ],
+        "ecf0a791-d8f8-42b5-b6c4-d45de118662c": [
+            "59b91597-cc02-4547-b343-0dfc73346980"
+        ],
+        "5e63ed96-087c-410f-a2de-69f4bba6f4b5": [
+            "59b91597-cc02-4547-b343-0dfc73346980"
+        ],
+        "ac3caec1-4c8e-4c9d-a439-004f738177a3": [
+            "d87d5032-910d-4f73-b2ba-6330f4ff572e"
+        ],
+        "5f3e1ee7-c1a6-4bcb-9d1f-b3d7b2c839c0": [
+            "d87d5032-910d-4f73-b2ba-6330f4ff572e"
+        ],
+        "ee2362d6-6924-4834-80f7-ab36e0caa40e": [
+            "73e4e56e-ce08-47d6-88e4-8da930bb888f"
+        ],
+        "f8fd1dfb-0020-423a-96ed-d9cc2a0ce296": [
+            "73e4e56e-ce08-47d6-88e4-8da930bb888f"
+        ],
+        "71c7891d-a181-4cff-9131-5808a81d1add": [
+            "6ee48d8a-945e-497b-94cf-5599dd72397a"
+        ],
+        "8a7c92fe-8367-4e84-a3d7-20fbd06da893": [
+            "6ee48d8a-945e-497b-94cf-5599dd72397a"
+        ],
+        "463e92f0-0478-48a7-aea7-cf01dcabf89b": [
+            "317705fe-275b-4a0b-98b3-3f6395987992"
+        ],
+        "8b80163b-40ff-407f-a09b-a1db750c240e": [
+            "317705fe-275b-4a0b-98b3-3f6395987992"
+        ],
+        "73a0ae5e-7696-463d-a3fd-7907a73fbb53": [
+            "db9fba9f-a69a-475a-9393-d4367509fc68"
+        ],
+        "1851b3ce-60fb-48ea-b064-90e422116bfe": [
+            "db9fba9f-a69a-475a-9393-d4367509fc68"
+        ],
+        "7725b3f4-e577-47a6-8066-a30b30d93630": [
+            "1fecfa63-ea81-436b-bb22-f75adb525476"
+        ],
+        "ed713fb7-5887-4fdc-b73a-9d12ecd32d27": [
+            "1fecfa63-ea81-436b-bb22-f75adb525476"
+        ],
+        "09cb7cd8-a6f9-4100-9a2c-2a709e8224d5": [
+            "7fc98e92-6aeb-464d-9477-c9dcd20e983f"
+        ],
+        "0b4626b5-31dd-4661-8cce-5dfc0c2e6160": [
+            "7fc98e92-6aeb-464d-9477-c9dcd20e983f"
+        ],
+        "9a29be5a-c60a-46cc-9e2a-372f69372067": [
+            "b33b767d-7e10-4480-998d-ca49493bc6d9"
+        ],
+        "f891129a-9e5b-434a-9907-236c45723f7c": [
+            "b33b767d-7e10-4480-998d-ca49493bc6d9"
+        ],
+        "a422f31e-87af-4dfc-9b32-c25f0c4028e0": [
+            "53ae26f8-eead-4889-8618-3371f1e751e9"
+        ],
+        "34aad41d-186b-48a4-a741-78afafa4e966": [
+            "53ae26f8-eead-4889-8618-3371f1e751e9"
+        ],
+        "00161667-0996-4681-a628-4f95822b6b8c": [
+            "c7e7d8e5-c242-40e9-b974-c57eb43b8bc9"
+        ],
+        "04a71eb7-742a-4198-b699-18ed9c613464": [
+            "c7e7d8e5-c242-40e9-b974-c57eb43b8bc9"
+        ],
+        "aa3fc58c-035e-4ab2-8150-9e093268529e": [
+            "dc0b1d6e-3236-41c9-b4a1-62cb50d8924c"
+        ],
+        "3ccde30e-3543-4dd4-85a2-a19472621a1d": [
+            "dc0b1d6e-3236-41c9-b4a1-62cb50d8924c"
+        ],
+        "eb596c91-a339-44de-af2a-648a0c34cf8d": [
+            "e65e894c-ed79-42b9-8d16-de2cb1051ff9"
+        ],
+        "3d188001-58b4-450b-94d3-be5280ad4f37": [
+            "e65e894c-ed79-42b9-8d16-de2cb1051ff9"
+        ],
+        "5f17a0c9-9623-42a8-a14d-bb9108a9b9e5": [
+            "92e084c2-d950-4767-9ae7-f704321678f7"
+        ],
+        "776125a4-789e-4545-a89b-4ddb5154377a": [
+            "92e084c2-d950-4767-9ae7-f704321678f7"
+        ],
+        "ea298605-1187-472f-827b-cd3eb3f8cecf": [
+            "749d6ea8-e280-47ef-b7e6-6a7a51751a6d"
+        ],
+        "7a6f905c-acbb-4d10-8c52-9b4595745f00": [
+            "749d6ea8-e280-47ef-b7e6-6a7a51751a6d"
+        ]
+    }
+}
